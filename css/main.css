@@ -1,0 +1,38 @@
+
+.barChart .bar {
+  fill: forestgreen;
+}
+
+/*.barChart .x.axis path {
+  display: none;
+}*/
+
+#partModulo .x.axis text {
+	text-anchor: end;
+}
+
+#partModulo svg {
+	overflow: visible;
+}
+
+#partLeccion .x.axis text {
+  text-anchor: end;
+}
+
+#partLeccion svg {
+  overflow: visible;
+}
+
+#partActividad .x.axis text {
+  text-anchor: end;
+}
+
+#partActividad svg {
+  overflow: visible;
+}
+
+.bar:hover , .bar:active, .bar:focus{
+  fill:brown;
+}
+
+
