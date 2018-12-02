@@ -1,6 +1,6 @@
 var margin = {top: 100, right: 0, bottom: 10, left: 10},
   width = 900 - margin.left - margin.right,
-  height = 450 - margin.top - margin.bottom;
+  height =320 - margin.top - margin.bottom;
 
 var marginT = {top: 100, right: 0, bottom: 10, left: 10},
   widthT = 900 - marginT.left - marginT.right,
@@ -144,11 +144,11 @@ svg.call(tip);
     .enter()
     .append("rect")
       .attr("x", function(d) { return x(d.Modulo) })
-      .attr("y", function(d) { return y(d.Categoria_1) })
+      .attr("y", function(d) { return y(d.Categoria_1)+10 })
       .attr("rx", 4)
       .attr("ry", 4)
       .attr("width", x.bandwidth())
-      .attr("height", y.bandwidth()- 200 )
+      .attr("height", y.bandwidth()- 60 )
       .style("fill", function(d) { return myColor(d.value)} )
       .style("stroke-width", 4)
       .style("stroke", "none")
@@ -176,7 +176,7 @@ var legend = svg.selectAll(".legend")
       .data(myColor.ticks(6).slice(0))
       .enter().append("g")
       .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(" + (100 + i * 50) + "," + (150) + ")"; });
+      .attr("transform", function(d, i) { return "translate(" + (500 + i * 50) + "," + (170) + ")"; });
 
   legend.append("rect")
       .attr("width", 50)
@@ -351,7 +351,6 @@ svgT.append("text")
 
 //svgT.text("Nivel de completitud por lección del módulo "+ value2);
 
-//bars.style("opacity", 0.3);       
          
  svgT.append("g")
     .style("font-size", 15)
@@ -368,6 +367,8 @@ svgT.append("text")
     .call(d3.axisLeft(y).tickSize(0))
     .select(".domain").remove();
 
+//bars.style("opacity", 0.3);       
+
 bars.enter()
     .append("rect")
       .attr("x", function(d) { return x(d.Leccion) })
@@ -375,7 +376,7 @@ bars.enter()
       .attr("rx", 4)
       .attr("ry", 4)
       .attr("width", x.bandwidth())
-      .attr("height", y.bandwidth()- 200)
+      .attr("height", y.bandwidth()- 80)
       .style("fill", function(d) { return myColor(d.value)} )
       .style("stroke-width", 4)
       .style("stroke", "none")
