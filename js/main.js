@@ -6,18 +6,24 @@ var barChartPartModulo=barChart()
   .y(function (d) { return d.value;});
 
 var barChartPartLeccion=barChart()
+.width(800)
 .x(function (d) { return d.key;})
 .y(function (d) { return d.value;})
 
 
 var barChartPartActividad=barChart()
+.width(800)
 .x(function (d) { return d.key;})
 .y(function (d) { return d.value;});
 
 
 
 
-d3.csv("data/dataset.csv", function(d){
+d3.csv("data/dataset.csv").then(function(data){
+
+  console.log(data)
+
+  data.forEach(function(d) {
 
   d.part_modulo=+d['part_modulo']
   d.part_leccion= +d["part_leccion"]
@@ -28,10 +34,9 @@ d3.csv("data/dataset.csv", function(d){
   d.completitud_lec = +d["completitud_lec"]
     
   return d;
+});
 
-},function (err, data) {
 
-if (err) throw err;
 
 // handle on click event for dropdown
 d3.select("#d3-dropdown")
@@ -86,6 +91,7 @@ barChartPartModulo.onclick(function (d) {
 
 
       update1();
+      update2();
     })
 
 barChartPartLeccion.onclick(function (d) {
