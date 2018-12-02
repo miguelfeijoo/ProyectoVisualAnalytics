@@ -2,22 +2,19 @@
 
 var barChartPartModulo=barChart()
   .width(800)
-  .height(800)
   .x(function (d) { return d.key;})
   .y(function (d) { return d.value;});
 
 var barChartPartLeccion=barChart()
-.width(800)
-.height(800)
 .x(function (d) { return d.key;})
 .y(function (d) { return d.value;})
 
 
 var barChartPartActividad=barChart()
-.width(800)
-.height(800)
 .x(function (d) { return d.key;})
 .y(function (d) { return d.value;});
+
+
 
 
 d3.csv("data/dataset.csv", function(d){
@@ -35,9 +32,22 @@ d3.csv("data/dataset.csv", function(d){
 },function (err, data) {
 
 if (err) throw err;
-console.log("dataaaa     "+JSON.stringify(data))
 
-var csData = crossfilter(data);
+// handle on click event for dropdown
+d3.select("#d3-dropdown")
+  .on('change', function() {
+    var newValue = eval(d3.select(this).property('value'));
+    
+
+    var data_filter = data.filter(function (d) {
+        return d.type_est === newValue;         
+    });
+
+    console.log(data_filter)
+
+
+
+var csData = crossfilter(data_filter);
 
 csData.dimPartModulo = csData.dimension(function (d) { return d.modulo; });
 csData.partModulo = csData.dimPartModulo.group()
@@ -51,6 +61,11 @@ reducer(csData.partModulo);
 
 csData.partModulo.top(Infinity);
 
+csData.dimPartLeccion = csData.dimension(function (d) { return d["course_branch_lesson_name"]; });
+csData.partLeccion = csData.dimPartLeccion.group();
+
+csData.dimPartActividad = csData.dimension(function (d) { return d["item"]; });
+csData.partActividad = csData.dimPartActividad.group();
 
 
 barChartPartModulo.onclick(function (d) {
@@ -60,16 +75,15 @@ barChartPartModulo.onclick(function (d) {
       csData.dimPartModulo.filter(d.key);
       barChartPartLeccion.x(function(d){if(d.value!=0){return d.key}})
 
-      csData.dimPartLeccion = csData.dimension(function (d) { return d["course_branch_lesson_name"]; });
-      csData.partLeccion = csData.dimPartLeccion.group();
+      var reducer1 = reductio()
+      .exception(function(d) { return d.course_branch_lesson_name; })
+      .exceptionSum(function(d) { return d.part_leccion });
 
-      var reducer = reductio()
-          .exception(function(d) { return d.course_branch_lesson_name; })
-          .exceptionSum(function(d) { return d.part_leccion });
-
-      reducer(csData.partLeccion);
+      reducer1(csData.partLeccion);
 
       csData.partLeccion.top(Infinity);
+
+
 
       update1();
     })
@@ -82,16 +96,15 @@ barChartPartLeccion.onclick(function (d) {
         csData.dimPartLeccion.filter(d.key);
         barChartPartActividad.x(function(d){if(d.value!=0){return d.key}})
 
-        csData.dimPartActividad = csData.dimension(function (d) { return d["item"]; });
-        csData.partActividad = csData.dimPartActividad.group();
 
-        var reducer = reductio()
-            .exception(function(d) { return d.item; })
-            .exceptionSum(function(d) { return d.part_item; });
+      var reducer2 = reductio()
+      .exception(function(d) { return d.item; })
+      .exceptionSum(function(d) { return d.part_item });
 
-        reducer(csData.partActividad);
+      reducer2(csData.partActividad);
 
-        csData.partActividad.top(Infinity);
+      csData.partActividad.top(Infinity);
+
 
         update2();
   });
@@ -105,13 +118,6 @@ barChartPartLeccion.onclick(function (d) {
         //.attr("transform", "translate(-8,-1) rotate(-45)"); 
     } 
     function update1() {
-        d3.select("#partModulo")
-        .datum(csData.partModulo.all().map(function(d){ 
-          return {key:d.key,value:d.value.exceptionSum}
-        }))
-        .call(barChartPartModulo);
-        //.attr("transform", "translate(-8,-1) rotate(-45)"); 
-
         d3.select("#partLeccion")
         .datum(csData.partLeccion.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
@@ -122,16 +128,6 @@ barChartPartLeccion.onclick(function (d) {
         //.attr("transform", "translate(-8,-1) rotate(-45)");
     } 
     function update2() {
-        
-        d3.select("#partLeccion")
-        .datum(csData.partLeccion.all().map(function(d){ 
-          return {key:d.key,value:d.value.exceptionSum}
-        }))
-        .call(barChartPartLeccion)
-        .select(".x.axis") //Adjusting the tick labels after drawn
-        .selectAll(".tick text");
-        //.attr("transform", "translate(-8,-1) rotate(-45)");
-
         d3.select("#partActividad")
         .datum(csData.partActividad.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
@@ -139,9 +135,8 @@ barChartPartLeccion.onclick(function (d) {
         .call(barChartPartActividad)
         .select(".x.axis") //Adjusting the tick labels after drawn
         .selectAll(".tick text");
-        //.attr("transform", "translate(-8,-1) rotate(-45)"); 
+        //.attr("transform", "translate(-8,-1) rotate(-45)");
     } 
-
 
 
   update();  
@@ -149,3 +144,4 @@ barChartPartLeccion.onclick(function (d) {
 
 
 });
+})
