@@ -25,10 +25,19 @@
 </head>
 <body>
 <div class="container-fluid">
+
+<div class="row">
+		<select id="d3-dropdown">
+			<option value="'A'">Antiguo</option>
+			<option value="'N'">Nuevo</option>
+			<option value="'NE'">Retirado</option>
+			<option value="'T'">Terminado</option>
+		</select>
+</div>
   <div class="row">
 		
 		<!-- On small screens fills the full grid, on medium+ ones only half -->
-		<div class="col-xs-12 col-md-12">
+		<div class="col-xs-12" align='center'>
 			<h2>Número de Participaciones por <strong>Módulo</strong></h2>
 			<div class="barChart" id="partModulo"align='center'></div>
 		</div>
@@ -37,18 +46,16 @@
   </div>
  <div class="row">
 <!-- On small screens fills the full grid, on medium+ ones only half -->
-		<div class="col-xs-12 col-md-12">
+		<div class="col-xs-8 col-md-8">
 			<h2>Número de Participaciones por <strong>Lección</strong></h2>
 			<div class="barChart" id="partLeccion" align='center'></div>
 		</div>
- </div>
-  <div class="row">
-<!-- On small screens fills the full grid, on medium+ ones only half -->
-		<div class="col-xs-12 col-md-12">
+		<div class="col-xs-8 col-md-8">
 			<h2>Número de Participaciones por <strong>Actividad</strong></h2>
 			<div class="barChart" id="partActividad"align='center'></div>
 		</div>
  </div>
+
 
 </div>
 
