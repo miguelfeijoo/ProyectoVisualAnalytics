@@ -20,12 +20,13 @@ var barChartPartActividad=barChart()
 .y(function (d) { return d.value;});
 
 
-d3.csv("data/201811282115.csv", function(d){
+d3.csv("data/dataset.csv", function(d){
 
   d.part_modulo=+d['part_modulo']
   d.part_leccion= +d["part_leccion"]
   d.part_item = +d["part_item"]
   d.prom_intentos= +d['prom_intentos']
+  d.prom_act_aprendizaje= +d['prom_intentos']
   d.completitud_modulo  = +["completitud_modulo"]
   d.completitud_lec = +d["completitud_lec"]
     
