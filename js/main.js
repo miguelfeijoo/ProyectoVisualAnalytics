@@ -101,16 +101,16 @@ barChartPartLeccion.onclick(function (d) {
         .datum(csData.partModulo.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
         }))
-        .call(barChartPartModulo)
-        .attr("transform", "translate(-8,-1) rotate(-45)"); 
+        .call(barChartPartModulo);
+        //.attr("transform", "translate(-8,-1) rotate(-45)"); 
     } 
     function update1() {
         d3.select("#partModulo")
         .datum(csData.partModulo.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
         }))
-        .call(barChartPartModulo)
-        .attr("transform", "translate(-8,-1) rotate(-45)"); 
+        .call(barChartPartModulo);
+        //.attr("transform", "translate(-8,-1) rotate(-45)"); 
 
         d3.select("#partLeccion")
         .datum(csData.partLeccion.all().map(function(d){ 
@@ -118,8 +118,8 @@ barChartPartLeccion.onclick(function (d) {
         }))
         .call(barChartPartLeccion)
         .select(".x.axis") //Adjusting the tick labels after drawn
-        .selectAll(".tick text")
-        .attr("transform", "translate(-8,-1) rotate(-45)");
+        .selectAll(".tick text");
+        //.attr("transform", "translate(-8,-1) rotate(-45)");
     } 
     function update2() {
         
@@ -129,8 +129,8 @@ barChartPartLeccion.onclick(function (d) {
         }))
         .call(barChartPartLeccion)
         .select(".x.axis") //Adjusting the tick labels after drawn
-        .selectAll(".tick text")
-        .attr("transform", "translate(-8,-1) rotate(-45)");
+        .selectAll(".tick text");
+        //.attr("transform", "translate(-8,-1) rotate(-45)");
 
         d3.select("#partActividad")
         .datum(csData.partActividad.all().map(function(d){ 
@@ -138,8 +138,8 @@ barChartPartLeccion.onclick(function (d) {
         }))
         .call(barChartPartActividad)
         .select(".x.axis") //Adjusting the tick labels after drawn
-        .selectAll(".tick text")
-        .attr("transform", "translate(-8,-1) rotate(-45)"); 
+        .selectAll(".tick text");
+        //.attr("transform", "translate(-8,-1) rotate(-45)"); 
     } 
 
 
