@@ -399,7 +399,8 @@ var legend = svgT.selectAll(".legend")
       .data(myColor.ticks(6).slice(0))
       .enter().append("g")
       .attr("class", "legend")
-      .attr("transform", function(d, i) { return "translate(" + (100 + i * 50) + "," + (150) + ")"; });
+      .attr("transform", function(d, i) { return "translate(" + (500 + i * 50) + "," + (150) + ")"; });
+
 
   legend.append("rect")
       .attr("width", 50)
