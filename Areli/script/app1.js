@@ -96,9 +96,13 @@ var x = d3.scaleBand()
 
 
  svg.append("g")
+    .attr("class", "x axis")
     .style("font-size", 10)
     .attr("transform", "translate(0," + 1 + ")")
     .call(d3.axisBottom(x).tickSize(0.1))
+    .selectAll(".tick text")
+            .style("text-anchor", "middle")
+            .call(wrap, x.bandwidth())
     .select(".domain").remove();
     
 
@@ -108,6 +112,7 @@ var y = d3.scaleBand()
     .padding(0.08);
 
   svg.append("g")
+    .attr("class", "y axis")
     .style("font-size", 10)
     .call(d3.axisLeft(y).tickSize(1))
     .select(".domain").remove()
@@ -221,6 +226,32 @@ svg.append("text")
 };
 
 
+//Funcion que centra .tick 
+  function wrap(text, width) {
+    //console.log("Entre")
+  text.each(function() {
+    var text = d3.select(this),
+        words = text.text().split(/\s+/).reverse(),
+        word,
+        line = [],
+        lineNumber = 0,
+        lineHeight = 1.1, // ems
+        y = text.attr("y"),
+        dy = parseFloat(text.attr("dy")),
+        tspan = text.text(null).append("tspan").attr("x", 0).attr("y", y).attr("dy", dy + "em")
+
+    while (word = words.pop()) {
+      line.push(word)
+      tspan.text(line.join(" "))
+      if (tspan.node().getComputedTextLength() > width) {
+        line.pop()
+        tspan.text(line.join(" "))
+        line = [word]
+        tspan = text.append("tspan").attr("x", 0).attr("y", y).attr("dy", `${++lineNumber * lineHeight + dy}em`).text(word)
+      }
+    }
+  })
+}
 
 
 //Function for create a second heatmap
@@ -276,21 +307,14 @@ var x = d3.scaleBand()
     .padding(0.005);
 
 
- svgT.append("g")
-    .style("font-size", 15)
-    .attr("transform", "translate(0," + 1 + ")")
-    .call(d3.axisBottom(x).tickSize(0))
-    .select(".domain").remove()
-    
+
+
 
 var y = d3.scaleBand()
     .range([ height, 0 ])
     .domain(myVars)
     .padding(0.1);
-  svgT.append("g")
-    .style("font-size", 15)
-    .call(d3.axisLeft(y).tickSize(0))
-    .select(".domain").remove()
+ 
 
 
    // Build color scale
@@ -316,8 +340,34 @@ svgT.call(tipT);
   // add the squares
   var bars= svgT.selectAll().data(resumenL, function(d) {return d.Leccion+':'+d.Categoria_1;});
 
-          
-          
+svgT.text("Nivel de completitud por lección del módulo "+ value2);
+// Add title to graph
+svgT.append("text")
+        .attr("x", 0)
+        .attr("y", -50)
+        .attr("text-anchor", "left")
+        .style("font-size", "22px")
+        .text("Nivel de completitud por lección del módulo "+ value2);
+
+//svgT.text("Nivel de completitud por lección del módulo "+ value2);
+
+//bars.style("opacity", 0.3);       
+         
+ svgT.append("g")
+    .style("font-size", 15)
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + 1 + ")")
+    .call(d3.axisBottom(x).tickSize(0))
+    .selectAll(".tick text")
+            .style("text-anchor", "middle")
+            .call(wrap, x.bandwidth())
+    .select(".domain").remove();
+
+ svgT.append("g")
+    .style("font-size", 15)
+    .call(d3.axisLeft(y).tickSize(0))
+    .select(".domain").remove();
+
 bars.enter()
     .append("rect")
       .attr("x", function(d) { return x(d.Leccion) })
@@ -332,7 +382,7 @@ bars.enter()
       .style("opacity", 0.8)
      .on('mouseover', tipT.show)
       .on('mouseout' , tipT.hide);
-     
+
 bars.exit().remove();
 
 
@@ -373,13 +423,6 @@ var legend = svgT.selectAll(".legend")
 
 
 
-// Add title to graph
-svgT.append("text")
-        .attr("x", 0)
-        .attr("y", -50)
-        .attr("text-anchor", "left")
-        .style("font-size", "22px")
-        .text("Nivel de completitud por lección del módulo "+ value2);
 
 // Add subtitle to graph
 svgT.append("text")
