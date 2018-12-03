@@ -67,7 +67,6 @@ d3.csv("data/dataset.csv").then(function(data) {
 
 
 var dataM=data.filter(d => d.Tipo_Est==value) 
-console.log("pepe" +JSON.stringify(dataM));
 var resumen = d3.nest()
     .key(function(d){
       return d.Modulo

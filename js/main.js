@@ -25,7 +25,6 @@ var barChartIntentos=barChart()
 
 d3.csv("data/dataset.csv").then(function(data){
 
-  console.log(data)
 
   data.forEach(function(d) {
 
@@ -36,6 +35,8 @@ d3.csv("data/dataset.csv").then(function(data){
   d.prom_act_aprendizaje= +d['prom_act_aprendizaje']
   d.completitud_modulo  = +["completitud_modulo"]
   d.completitud_lec = +d["completitud_lec"]
+
+
     
   return d;
 });
@@ -52,13 +53,11 @@ d3.select("#d3-dropdown")
         return d.type_est === newValue;         
     })
 
-    console.log(data_filter)
 
     var data_filter_2 = data.filter(function (d) {
         return d.type_est === newValue && d.prom_intentos!=0;         
     })
 
-    console.log(data_filter_2)
 
 
 var csData = crossfilter(data_filter);
@@ -94,28 +93,35 @@ reducer(csData_2.intentos);
 csData_2.intentos.top(Infinity);
 
 
-console.log(csData_2.intentos.all())
-
-
 csData.dimPartLeccion = csData.dimension(function (d) { return d["course_branch_lesson_name"]; });
 csData.partLeccion = csData.dimPartLeccion.group();
 
 csData.dimPartActividad = csData.dimension(function (d) { return d["item"]; });
 csData.partActividad = csData.dimPartActividad.group();
 
+var keys=[];
+var keys_2=[];
+
 
 barChartPartModulo.onclick(function (d) {
 
       console.log("hizo click en modulo")
+
+      //mod=data.filter(d.key)
+      
+      keys=data.filter(function(x){return x.modulo===d.key}).map(function(e){return e.course_branch_lesson_name}).filter((value, index, self) => self.indexOf(value) === index)
+     // console.log(keys)
+
       
       csData.dimPartModulo.filter(d.key);
-      barChartPartLeccion.x(function(d){if(d.value!=0){return d.key}})
+      barChartPartLeccion.x(function(x){if(keys.indexOf(x.key)>-1){return x.key}})
 
       var reducer1 = reductio()
       .exception(function(d) { return d.course_branch_lesson_name; })
       .exceptionSum(function(d) { return d.part_leccion });
 
-      reducer1(csData.partLeccion);
+       reducer1(csData.partLeccion);
+
 
       csData.partLeccion.top(Infinity);
 
@@ -127,9 +133,12 @@ barChartPartLeccion.onclick(function (d) {
 
         console.log("hizo click  en leccion")
 
+        
+        keys_2=data.filter(function(a){return a.course_branch_lesson_name===d.key}).map(function(e){return e.item}).filter((value, index, self) => self.indexOf(value) === index)
+
 
         csData.dimPartLeccion.filter(d.key);
-        barChartPartActividad.x(function(d){if(d.value!=0){return d.key}})
+        barChartPartActividad.x(function(x){if(keys_2.indexOf(x.key)>-1){return x.key}})
 
 
       var reducer2 = reductio()
@@ -142,6 +151,8 @@ barChartPartLeccion.onclick(function (d) {
 
 
         update2();
+
+     
   });
 
     function update() {
@@ -151,10 +162,6 @@ barChartPartLeccion.onclick(function (d) {
         }))
         .call(barChartPartModulo);
         //.attr("transform", "translate(-8,-1) rotate(-45)"); 
-
-        console.log(csData_2.intentos.all().map(function(d){ 
-          return {key:d.key,value:d.value.exceptionSum}
-        }))
 
         d3.select("#intentos")
         .datum(csData_2.intentos.all().map(function(d){ 
@@ -172,8 +179,10 @@ barChartPartLeccion.onclick(function (d) {
         .select(".x.axis") //Adjusting the tick labels after drawn
         .selectAll(".tick text");
         //.attr("transform", "translate(-8,-1) rotate(-45)");
+
     } 
-    function update2() {
+
+     function update2() {
         d3.select("#partActividad")
         .datum(csData.partActividad.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
