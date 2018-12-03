@@ -1,11 +1,8 @@
 
-.barChart .bar {
-  fill: forestgreen;
-}
 
-/*.barChart .x.axis path {
+.barChart .x.axis path {
   display: none;
-}*/
+}
 
 #partModulo .x.axis text {
 	text-anchor: end;
@@ -30,9 +27,34 @@
 #partActividad svg {
   overflow: visible;
 }
-
-.bar:hover , .bar:active, .bar:focus{
+.barchart .bar:hover{
   fill:brown;
 }
 
+body {
+
+	background: #D3D3D3;
+
+}
+
+select {
+  margin: 50px;
+  width: 150px;
+  padding: 5px 35px 5px 5px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  height: 34px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background: url(https://image.flaticon.com/icons/svg/109/109731.svg) 96% / 15% no-repeat #eee;
+}
+
+
+/* CAUTION: IE hackery ahead */
+
+
+select::-ms-expand { 
+    display: none; /* remove default arrow in IE 10 and 11 */
+}
 

@@ -32,7 +32,7 @@ var svgT = d3.select("#graphT")
 updateGrap("A");
 
 // handle on click event for dropdown
-d3.select("#d3-dropdown")
+d3.select("#d3-dropdown2")
   .on('change', function() {
     var newValue = eval(d3.select(this).property('value'));
     updateGrap(newValue);
@@ -212,12 +212,22 @@ svg.append("text")
 // Add subtitle to graph
 svg.append("text")
         .attr("x", 0)
+        .attr("y", -30)
+        .attr("text-anchor", "left")
+        .style("font-size", "14px")
+        .style("fill", "grey")
+        .style("max-width", 1000)
+        .text("Este gráfico presenta el nivel de completitud, por módulo. Los módulos con menor porcentaje, se presentan en color más claro.")
+
+svg.append("text")
+        .attr("x", 0)
         .attr("y", -10)
         .attr("text-anchor", "left")
         .style("font-size", "14px")
         .style("fill", "grey")
         .style("max-width", 1000)
-        .text("En este gráfico se presenta el nivel de completitud de los módulos del curso de Matemáticas MOOC, en relación al porcentaje promedio de actividades completadas por los estudiantes del curso");
+        .text("Para ver el porcentaje de completitud de las lecciones de un módulo específico, haga click en el cuadro del módulo.");
+
 
 
 })
@@ -353,7 +363,7 @@ svgT.append("text")
 
          
  svgT.append("g")
-    .style("font-size", 15)
+    .style("font-size", 10)
     .attr("class", "x axis")
     .attr("transform", "translate(0," + 1 + ")")
     .call(d3.axisBottom(x).tickSize(0))
@@ -363,7 +373,7 @@ svgT.append("text")
     .select(".domain").remove();
 
  svgT.append("g")
-    .style("font-size", 15)
+    .style("font-size", 10)
     .call(d3.axisLeft(y).tickSize(0))
     .select(".domain").remove();
 
@@ -380,7 +390,7 @@ bars.enter()
       .style("fill", function(d) { return myColor(d.value)} )
       .style("stroke-width", 4)
       .style("stroke", "none")
-      .style("opacity", 0.8)
+      .style("opacity", 1)
      .on('mouseover', tipT.show)
       .on('mouseout' , tipT.hide);
 
@@ -429,12 +439,12 @@ var legend = svgT.selectAll(".legend")
 // Add subtitle to graph
 svgT.append("text")
         .attr("x", 0)
-        .attr("y", -10)
+        .attr("y", -20)
         .attr("text-anchor", "left")
         .style("font-size", "14px")
         .style("fill", "grey")
         .style("max-width", 1000)
-        .text("En este gráfico se presenta el nivel de completitud de las lecciones del curso de Matemáticas MOOC, en relación al porcentaje promedio de actividades completadas por los estudiantes en el módulo");
+        .text("Este gráfico presenta el porcentaje de completitud, por lección. Las lecciones con menor porcentaje, se presentan en color más claro.");
 
 
 
@@ -445,6 +455,21 @@ svgT.append("text")
 
 
 
+
+
+// Function for information bos
+
+  /**
+  * show the box on mouse over
+  */
+ function miFuncion() {
+  var miTip = document.getElementById("miDiv").dataset.test;
+  console.log(miTip);
+}
+
+
+
+
 //Function for second heatmap
 
 
@@ -456,5 +481,3 @@ svgT.append("text")
 
 
 //Function for second heatmap
-
-

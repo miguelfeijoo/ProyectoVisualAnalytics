@@ -1,4 +1,4 @@
-﻿"mo","le","ite","type_est","modulo","course_branch_lesson_name","item","course_item_type_desc","part_modulo","part_leccion","part_item","prom_intentos","prom_act_aprendizaje","completitud_modulo","completitud_lec"
+﻿mo,le,ite,type_est,modulo,course_branch_lesson_name,item,course_item_type_desc,part_modulo,part_leccion,part_item,prom_intentos,prom_act_aprendizaje,completitud_modulo,completitud_lec
 Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 0,A,Bienvenida,Bienvenida al curso,Bienvenida,lecture,39,39,39,,,0.79,0.79
 Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 1,A,Bienvenida,Bienvenida al curso,Presentación del curso,others,39,39,1,,,0.79,0.79
 Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 2,A,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,39,39,37,,,0.79,0.79
@@ -12,12 +12,12 @@ Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 5,A,Números naturales y sistemas de numeraci�
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,A,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,36,36,3,,1.13,0.62,0.87
 Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 0,A,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,36,33,33,,,0.62,0.77
 Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 1,A,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,36,33,,,,0.62,0.77
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,A,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,36,33,8,,1.30,0.62,0.77
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,A,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,36,33,8,,1.3,0.62,0.77
 Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,A,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,36,33,3,,1.08,0.62,0.77
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 0,A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,36,29,29,,,0.62,0.82
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 1,A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,36,29,29,,,0.62,0.82
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 2,A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,36,29,,,,0.62,0.82
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,36,29,1,,1.00,0.62,0.82
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,36,29,1,,1,0.62,0.82
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,A,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,36,29,5,,1.04,0.62,0.82
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 0,A,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,36,24,21,,,0.62,0.76
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 1,A,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,36,24,22,,,0.62,0.76
@@ -30,35 +30,35 @@ Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 3,A,Números naturales y sistemas de numeraci�
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 4,A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,36,24,19,,,0.62,0.66
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 5,A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,36,24,,,,0.62,0.66
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 6,A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,36,24,,,,0.62,0.66
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,36,24,21,1.76,,0.62,0.66
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,36,24,21,2,,0.62,0.66
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 8,A,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,36,24,,,,0.62,0.66
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 0,A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,23,23,23,,,0.59,0.86
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 1,A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,23,23,,,,0.59,0.86
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 2,A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,23,23,21,,,0.59,0.86
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 3,A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,23,23,,,,0.59,0.86
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,23,23,1,,1.00,0.59,0.86
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,A,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,23,23,1,,1,0.59,0.86
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 0,A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,23,20,20,,,0.59,0.86
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 1,A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,23,20,,,,0.59,0.86
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 2,A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,23,20,19,,,0.59,0.86
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,A,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,23,20,2,,1.12,0.59,0.86
 Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 0,A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,23,20,20,,,0.59,0.88
 Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 1,A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,23,20,,,,0.59,0.88
-Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,23,20,1,,1.00,0.59,0.88
+Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,A,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,23,20,1,,1,0.59,0.88
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 0,A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,23,16,16,,,0.59,0.77
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 1,A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,23,16,,,,0.59,0.77
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,23,16,1,,1.00,0.59,0.77
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,23,16,2,,1.10,0.59,0.77
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,23,16,1,,1,0.59,0.77
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,A,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,23,16,2,,1.1,0.59,0.77
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 0,A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,23,12,12,,,0.59,0.77
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 1,A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,23,12,,,,0.59,0.77
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 2,A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,23,12,7,,,0.59,0.77
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,A,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,23,12,1,,1.16,0.59,0.77
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 0,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,23,14,9,,,0.59,0.61
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 1,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,23,14,,,,0.59,0.61
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,23,14,1,,1.00,0.59,0.61
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,23,14,1,,1,0.59,0.61
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 3,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,23,14,10,,,0.59,0.61
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 4,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,23,14,,,,0.59,0.61
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 5,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,23,14,,,,0.59,0.61
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,23,14,12,1.75,,0.59,0.61
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,23,14,12,2,,0.59,0.61
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 7,A,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,23,14,,,,0.59,0.61
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 0,A,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,13,13,13,,,0.52,0.73
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 1,A,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,13,13,,,,0.52,0.73
@@ -74,217 +74,217 @@ Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,A,Números racionales,Significados de los n�
 Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 0,A,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,13,7,7,,,0.52,0.82
 Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 1,A,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,13,7,,,,0.52,0.82
 Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 2,A,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,13,7,6,,,0.52,0.82
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,A,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,13,7,,,1.00,0.52,0.82
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,A,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,13,7,,,1,0.52,0.82
 Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,A,Números racionales,Decimales,Números decimales,lecture,13,7,7,,,0.52,0.71
 Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,A,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,13,7,,,,0.52,0.71
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,A,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,13,7,,,1.00,0.52,0.71
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,A,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,13,7,,,1.00,0.52,0.71
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,A,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,13,7,,,1,0.52,0.71
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,A,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,13,7,,,1,0.52,0.71
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 0,A,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,13,7,7,,,0.52,0.81
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 1,A,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,13,7,,,,0.52,0.81
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 2,A,Números racionales,Razón y proporción,Cantidad desconocida,quiz,13,7,5,,,0.52,0.81
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 3,A,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,13,7,6,,,0.52,0.81
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 4,A,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,13,7,,,,0.52,0.81
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,A,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,13,7,,,1.00,0.52,0.81
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,A,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,13,7,,,1,0.52,0.81
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 6,A,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,13,7,,,,0.52,0.81
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,A,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,13,7,5,1.60,,0.52,0.81
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,A,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,13,7,5,2,,0.52,0.81
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 8,A,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,13,7,,,,0.52,0.81
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 0,A,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,7,7,7,,,0.61,0.85
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 1,A,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,7,7,,,,0.61,0.85
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 2,A,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,7,7,6,,,0.61,0.85
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 3,A,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,7,7,6,,,0.61,0.85
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 4,A,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,7,7,,,,0.61,0.85
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,A,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,7,7,,,1.00,0.61,0.85
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,A,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,7,7,,,1,0.61,0.85
 Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 0,A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,7,6,6,,,0.61,0.75
 Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 1,A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,7,6,,,,0.61,0.75
 Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 2,A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,7,6,5,,,0.61,0.75
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,7,6,,,1.00,0.61,0.75
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,A,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,7,6,,,1,0.61,0.75
 Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 0,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,7,5,5,,,0.61,0.72
 Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 1,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,7,5,,,,0.61,0.72
 Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 2,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,7,5,4,,,0.61,0.72
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,7,5,,,1.00,0.61,0.72
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,7,5,,,1.00,0.61,0.72
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,7,5,,,1,0.61,0.72
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,A,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,7,5,,,1,0.61,0.72
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 0,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,7,5,5,,,0.61,0.68
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 1,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,7,5,,,,0.61,0.68
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,7,5,,,1.00,0.61,0.68
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,7,5,,,1,0.61,0.68
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 3,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,7,5,3,,,0.61,0.68
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 4,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,7,5,4,,,0.61,0.68
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 5,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,7,5,,,,0.61,0.68
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 6,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,7,5,,,,0.61,0.68
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 7,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,7,5,4,3.00,,0.61,0.68
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 7,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,7,5,4,3,,0.61,0.68
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 8,A,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,7,5,,,,0.61,0.68
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 0,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,3,3,3,,,0.48,0.71
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 1,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,3,3,,,,0.48,0.71
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 2,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,3,3,3,,,0.48,0.71
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 3,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,3,3,2,,,0.48,0.71
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 4,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,3,3,,,,0.48,0.71
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,3,3,,,1.00,0.48,0.71
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,3,3,,,1.00,0.48,0.71
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,3,2,2,,,0.48,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,3,2,,,,0.48,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.50
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,3,3,,,1,0.48,0.71
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,A,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,3,3,,,1,0.48,0.71
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,3,2,2,,,0.48,0.5
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,3,2,,,,0.48,0.5
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.5
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,A,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.5
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 0,A,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,3,2,2,,,0.48,0.66
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 1,A,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,3,2,,,,0.48,0.66
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 2,A,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.66
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,A,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,3,2,2,,,0.48,0.50
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,A,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,3,2,,,,0.48,0.50
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,A,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.50
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,A,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.50
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,A,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,3,2,2,,,0.48,0.5
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,A,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,3,2,,,,0.48,0.5
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,A,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.5
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,A,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,3,2,,,,0.48,0.5
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 0,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,3,2,2,,,0.48,0.68
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 1,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,3,2,,,,0.48,0.68
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,3,2,,,1.00,0.48,0.68
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,3,2,,,1,0.48,0.68
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 3,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,3,2,2,,,0.48,0.68
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 4,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,3,2,,,,0.48,0.68
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 5,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,3,2,,,,0.48,0.68
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 6,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,3,2,1,1.00,,0.48,0.68
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 6,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,3,2,1,1,,0.48,0.68
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 7,A,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,3,2,,,,0.48,0.68
-Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 0,A,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.66,0.66
+Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 0,A,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,2,2,,,1,0.66,0.66
 Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 1,A,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,2,2,,,,0.66,0.66
 Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 2,A,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,2,2,2,,,0.66,0.66
 Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 3,A,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,2,2,2,,,0.66,0.66
-Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 0,N,Bienvenida,Bienvenida al curso,Bienvenida,lecture,280,280,274,,,0.54,0.54
-Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 1,N,Bienvenida,Bienvenida al curso,Presentación del curso,others,280,280,,,,0.54,0.54
-Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 2,N,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,280,280,201,,,0.54,0.54
-Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 3,N,Bienvenida,Bienvenida al curso,Recomendaciones para el éxito,others,280,280,,,,0.54,0.54
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 0,N,Números naturales y sistemas de numeración,Origen de los números naturales,Origen de los números naturales,lecture,212,206,193,,,0.41,0.73
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 1,N,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual del origen de los números naturales,supplement,212,206,,,,0.41,0.73
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 2,N,Números naturales y sistemas de numeración,Origen de los números naturales,¿Qué sabes del número natural?,quiz,212,206,178,,,0.41,0.73
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 3,N,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,212,206,157,,,0.41,0.73
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 4,N,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,212,206,,,,0.41,0.73
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 5,N,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,212,206,141,,,0.41,0.73
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,N,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,212,206,1,,1.06,0.41,0.73
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 0,N,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,212,108,108,,,0.41,0.80
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 1,N,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,212,108,,,,0.41,0.80
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,N,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,212,108,2,,1.05,0.41,0.80
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,N,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,212,108,,,1.00,0.41,0.80
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 0,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,212,87,85,,,0.41,0.86
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 1,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,212,87,76,,,0.41,0.86
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 2,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,212,87,,,,0.41,0.86
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,212,87,,,1.00,0.41,0.86
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,212,87,,,1.00,0.41,0.86
-Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 0,N,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,212,79,75,,,0.41,0.82
-Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 1,N,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,212,79,68,,,0.41,0.82
-Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 2,N,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,212,79,,,,0.41,0.82
-Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 3,N,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,212,79,,,1.01,0.41,0.82
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 0,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,212,80,58,,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 1,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,212,80,,,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 2,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,212,80,59,,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 3,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,212,80,,,1.00,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 4,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,212,80,49,,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 5,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,212,80,,,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 6,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,212,80,,,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,212,80,68,1.50,,0.41,0.72
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 8,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,212,80,,,,0.41,0.72
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 0,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,59,54,53,,,0.35,0.75
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 1,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,59,54,,,,0.35,0.75
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 2,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,59,54,46,,,0.35,0.75
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 3,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,59,54,,,,0.35,0.75
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,59,54,,,1.02,0.35,0.75
-Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 0,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,59,31,29,,,0.35,0.83
-Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 1,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,59,31,,,,0.35,0.83
-Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 2,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,59,31,28,,,0.35,0.83
-Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,59,31,,,1.00,0.35,0.83
-Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 0,N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,59,20,20,,,0.35,0.85
-Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 1,N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,59,20,,,,0.35,0.85
-Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,59,20,,,1.06,0.35,0.85
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 0,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,59,18,18,,,0.35,0.75
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 1,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,59,18,,,,0.35,0.75
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,59,18,,,1.00,0.35,0.75
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,59,18,,,1.08,0.35,0.75
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 0,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,59,20,17,,,0.35,0.76
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 1,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,59,20,,,,0.35,0.76
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 2,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,59,20,17,,,0.35,0.76
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,59,20,,,1.11,0.35,0.76
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 0,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,59,15,13,,,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 1,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,59,15,,,,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,59,15,,,1.00,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 3,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,59,15,12,,,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 4,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,59,15,,,,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 5,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,59,15,,,,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,59,15,15,1.46,,0.35,0.86
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 7,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,59,15,,,,0.35,0.86
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 0,N,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,17,16,13,,,0.55,0.72
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 1,N,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,17,16,,,,0.55,0.72
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 2,N,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,17,16,14,,,0.55,0.72
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 3,N,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,17,16,,,1.00,0.55,0.72
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 4,N,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,17,16,10,,,0.55,0.72
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 5,N,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,17,16,,,,0.55,0.72
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 6,N,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,17,16,,,1.00,0.55,0.72
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 0,N,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,17,10,8,,,0.55,0.75
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 1,N,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,17,10,,,,0.55,0.75
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 2,N,Números racionales,Significados de los números racionales,Números racionales,quiz,17,10,10,,,0.55,0.75
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,N,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,17,10,,,1.00,0.55,0.75
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 0,N,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,17,10,8,,,0.55,0.72
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 1,N,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,17,10,,,,0.55,0.72
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 2,N,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,17,10,10,,,0.55,0.72
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,N,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,17,10,,,1.00,0.55,0.72
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,N,Números racionales,Decimales,Números decimales,lecture,17,8,8,,,0.55,0.78
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,N,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,17,8,,,,0.55,0.78
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,N,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,17,8,,,1.00,0.55,0.78
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,N,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,17,8,,,1.00,0.55,0.78
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 0,N,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,17,10,8,,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 1,N,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,17,10,,,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 2,N,Números racionales,Razón y proporción,Cantidad desconocida,quiz,17,10,10,,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 3,N,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,17,10,8,,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 4,N,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,17,10,,,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,N,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,17,10,,,1.00,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 6,N,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,17,10,,,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,N,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,17,10,9,1.77,,0.55,0.80
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 8,N,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,17,10,,,,0.55,0.80
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 0,N,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,10,10,8,,,0.50,0.73
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 1,N,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,10,10,,,,0.50,0.73
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 2,N,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,10,10,7,,,0.50,0.73
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 3,N,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,10,10,7,,,0.50,0.73
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 4,N,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,10,10,,,,0.50,0.73
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,N,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,10,10,,,1.00,0.50,0.73
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 0,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,10,9,6,,,0.50,0.70
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 1,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,10,9,,,,0.50,0.70
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 2,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,10,9,7,,,0.50,0.70
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,10,9,,,1.00,0.50,0.70
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 0,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,10,8,5,,,0.50,0.60
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 1,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,10,8,,,,0.50,0.60
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 2,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,10,8,6,,,0.50,0.60
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,10,8,,,1.00,0.50,0.60
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,10,8,,,1.00,0.50,0.60
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 0,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,10,8,5,,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 1,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,10,8,,,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,10,8,,,1.00,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 3,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,10,8,6,,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 4,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,10,8,5,,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 5,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,10,8,,,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 6,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,10,8,,,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 7,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,10,8,6,1.83,,0.50,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 8,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,10,8,,,,0.50,0.66
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 0,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,3,1,1,,,0.08,0.57
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 1,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,3,1,,,,0.08,0.57
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 2,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,3,1,1,,,0.08,0.57
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 3,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,3,1,1,,,0.08,0.57
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 4,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,3,1,,,,0.08,0.57
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,3,1,,,,0.08,0.57
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,N,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,3,1,,,,0.08,0.57
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,3,,,,,0.08,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,3,,,,,0.08,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,3,,,,1.00,0.08,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,N,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,3,,,,1.00,0.08,0.50
-Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 0,N,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,3,,,,,0.08,
-Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 1,N,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,3,,,,,0.08,
-Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 2,N,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,3,,,,,0.08,
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,N,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,3,1,1,,,0.08,0.25
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,N,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,N,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,N,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 0,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 1,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 3,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 4,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 5,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,3,1,,,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 6,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,3,1,1,2.00,,0.08,0.25
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 7,N,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,3,1,,,,0.08,0.25
-Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 0,N,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,1,1,,,1.00,0.62,0.62
-Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 1,N,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,1,1,,,,0.62,0.62
-Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 2,N,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,1,1,1,,,0.62,0.62
-Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 3,N,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,1,1,1,,,0.62,0.62
+Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 0,N,Bienvenida,Bienvenida al curso,Bienvenida,lecture,280,280,274,,,"0,54","0,54"
+Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 1,N,Bienvenida,Bienvenida al curso,Presentación del curso,others,280,280,,,,"0,54","0,54"
+Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 2,N,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,280,280,201,,,"0,54","0,54"
+Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 3,N,Bienvenida,Bienvenida al curso,Recomendaciones para el éxito,others,280,280,,,,"0,54","0,54"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 0,N,Números naturales y sistemas de numeración,Origen de los números naturales,Origen de los números naturales,lecture,212,206,193,,,"0,41","0,73"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 1,N,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual del origen de los números naturales,supplement,212,206,,,,"0,41","0,73"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 2,N,Números naturales y sistemas de numeración,Origen de los números naturales,¿Qué sabes del número natural?,quiz,212,206,178,,,"0,41","0,73"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 3,N,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,212,206,157,,,"0,41","0,73"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 4,N,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,212,206,,,,"0,41","0,73"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 5,N,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,212,206,141,,,"0,41","0,73"
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,N,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,212,206,1,,"1,06","0,41","0,73"
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 0,N,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,212,108,108,,,"0,41","0,8"
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 1,N,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,212,108,,,,"0,41","0,8"
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,N,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,212,108,2,,"1,05","0,41","0,8"
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,N,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,212,108,,,1,"0,41","0,8"
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 0,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,212,87,85,,,"0,41","0,86"
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 1,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,212,87,76,,,"0,41","0,86"
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 2,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,212,87,,,,"0,41","0,86"
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,212,87,,,1,"0,41","0,86"
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,N,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,212,87,,,1,"0,41","0,86"
+Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 0,N,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,212,79,75,,,"0,41","0,82"
+Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 1,N,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,212,79,68,,,"0,41","0,82"
+Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 2,N,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,212,79,,,,"0,41","0,82"
+Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 3,N,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,212,79,,,"1,01","0,41","0,82"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 0,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,212,80,58,,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 1,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,212,80,,,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 2,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,212,80,59,,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 3,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,212,80,,,1,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 4,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,212,80,49,,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 5,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,212,80,,,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 6,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,212,80,,,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,212,80,68,2,,"0,41","0,72"
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 8,N,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,212,80,,,,"0,41","0,72"
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 0,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,59,54,53,,,"0,35","0,75"
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 1,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,59,54,,,,"0,35","0,75"
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 2,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,59,54,46,,,"0,35","0,75"
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 3,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,59,54,,,,"0,35","0,75"
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,N,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,59,54,,,"1,02","0,35","0,75"
+Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 0,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,59,31,29,,,"0,35","0,83"
+Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 1,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,59,31,,,,"0,35","0,83"
+Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 2,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,59,31,28,,,"0,35","0,83"
+Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,N,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,59,31,,,1,"0,35","0,83"
+Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 0,N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,59,20,20,,,"0,35","0,85"
+Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 1,N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,59,20,,,,"0,35","0,85"
+Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,N,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,59,20,,,"1,06","0,35","0,85"
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 0,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,59,18,18,,,"0,35","0,75"
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 1,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,59,18,,,,"0,35","0,75"
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,59,18,,,1,"0,35","0,75"
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,N,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,59,18,,,"1,08","0,35","0,75"
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 0,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,59,20,17,,,"0,35","0,76"
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 1,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,59,20,,,,"0,35","0,76"
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 2,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,59,20,17,,,"0,35","0,76"
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,N,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,59,20,,,"1,11","0,35","0,76"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 0,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,59,15,13,,,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 1,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,59,15,,,,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,59,15,,,1,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 3,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,59,15,12,,,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 4,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,59,15,,,,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 5,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,59,15,,,,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,59,15,15,2,,"0,35","0,86"
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 7,N,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,59,15,,,,"0,35","0,86"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 0,N,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,17,16,13,,,"0,55","0,72"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 1,N,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,17,16,,,,"0,55","0,72"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 2,N,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,17,16,14,,,"0,55","0,72"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 3,N,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,17,16,,,1,"0,55","0,72"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 4,N,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,17,16,10,,,"0,55","0,72"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 5,N,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,17,16,,,,"0,55","0,72"
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 6,N,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,17,16,,,1,"0,55","0,72"
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 0,N,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,17,10,8,,,"0,55","0,75"
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 1,N,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,17,10,,,,"0,55","0,75"
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 2,N,Números racionales,Significados de los números racionales,Números racionales,quiz,17,10,10,,,"0,55","0,75"
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,N,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,17,10,,,1,"0,55","0,75"
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 0,N,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,17,10,8,,,"0,55","0,72"
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 1,N,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,17,10,,,,"0,55","0,72"
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 2,N,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,17,10,10,,,"0,55","0,72"
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,N,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,17,10,,,1,"0,55","0,72"
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,N,Números racionales,Decimales,Números decimales,lecture,17,8,8,,,"0,55","0,78"
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,N,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,17,8,,,,"0,55","0,78"
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,N,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,17,8,,,1,"0,55","0,78"
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,N,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,17,8,,,1,"0,55","0,78"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 0,N,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,17,10,8,,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 1,N,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,17,10,,,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 2,N,Números racionales,Razón y proporción,Cantidad desconocida,quiz,17,10,10,,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 3,N,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,17,10,8,,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 4,N,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,17,10,,,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,N,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,17,10,,,1,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 6,N,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,17,10,,,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,N,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,17,10,9,2,,"0,55","0,8"
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 8,N,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,17,10,,,,"0,55","0,8"
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 0,N,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,10,10,8,,,"0,5","0,73"
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 1,N,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,10,10,,,,"0,5","0,73"
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 2,N,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,10,10,7,,,"0,5","0,73"
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 3,N,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,10,10,7,,,"0,5","0,73"
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 4,N,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,10,10,,,,"0,5","0,73"
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,N,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,10,10,,,1,"0,5","0,73"
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 0,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,10,9,6,,,"0,5","0,7"
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 1,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,10,9,,,,"0,5","0,7"
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 2,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,10,9,7,,,"0,5","0,7"
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,N,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,10,9,,,1,"0,5","0,7"
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 0,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,10,8,5,,,"0,5","0,6"
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 1,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,10,8,,,,"0,5","0,6"
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 2,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,10,8,6,,,"0,5","0,6"
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,10,8,,,1,"0,5","0,6"
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,N,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,10,8,,,1,"0,5","0,6"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 0,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,10,8,5,,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 1,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,10,8,,,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,10,8,,,1,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 3,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,10,8,6,,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 4,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,10,8,5,,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 5,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,10,8,,,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 6,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,10,8,,,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 7,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,10,8,6,2,,"0,5","0,66"
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 8,N,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,10,8,,,,"0,5","0,66"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 0,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,3,1,1,,,"0,08","0,57"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 1,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,3,1,,,,"0,08","0,57"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 2,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,3,1,1,,,"0,08","0,57"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 3,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,3,1,1,,,"0,08","0,57"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 4,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,3,1,,,,"0,08","0,57"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,3,1,,,,"0,08","0,57"
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,N,"Magnitudes y medidas, Medidas directas",¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,3,1,,,,"0,08","0,57"
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,N,"Magnitudes y medidas, Medidas directas",Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,3,,,,,"0,08","0,5"
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,N,"Magnitudes y medidas, Medidas directas",Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,3,,,,,"0,08","0,5"
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,N,"Magnitudes y medidas, Medidas directas",Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,3,,,,1,"0,08","0,5"
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,N,"Magnitudes y medidas, Medidas directas",Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,3,,,,1,"0,08","0,5"
+Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 0,N,"Magnitudes y medidas, Medidas directas",Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,3,,,,,"0,08",
+Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 1,N,"Magnitudes y medidas, Medidas directas",Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,3,,,,,"0,08",
+Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 2,N,"Magnitudes y medidas, Medidas directas",Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,3,,,,,"0,08",
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,N,"Magnitudes y medidas, Medidas directas",Estimación,Procesos de estimación,lecture,3,1,1,,,"0,08","0,25"
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,N,"Magnitudes y medidas, Medidas directas",Estimación,Mapa conceptual de estimación,supplement,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,N,"Magnitudes y medidas, Medidas directas",Estimación,Logotipo (actividad de aprendizaje),ungraded lti,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,N,"Magnitudes y medidas, Medidas directas",Estimación,Estatura (actividad de aprendizaje),ungraded lti,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 0,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 1,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 3,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 4,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 5,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,3,1,,,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 6,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,3,1,1,2,,"0,08","0,25"
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 7,N,"Magnitudes y medidas, Medidas directas",Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,3,1,,,,"0,08","0,25"
+Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 0,N,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,1,1,,,1,"0,62","0,62"
+Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 1,N,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,1,1,,,,"0,62","0,62"
+Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 2,N,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,1,1,1,,,"0,62","0,62"
+Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 3,N,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,1,1,1,,,"0,62","0,62"
 Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 0,NE,Bienvenida,Bienvenida al curso,Bienvenida,lecture,15,15,15,,,0.62,0.62
 Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 1,NE,Bienvenida,Bienvenida al curso,Presentación del curso,others,15,15,,,,0.62,0.62
 Mod 0,Mod 0-Les 0,Mod 0-Les 0-Ite 2,NE,Bienvenida,Bienvenida al curso,Introducción al curso,lecture,15,15,11,,,0.62,0.62
@@ -295,76 +295,76 @@ Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 2,NE,Números naturales y sistemas de numeraci
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 3,NE,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,11,11,5,,,0.37,0.66
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 4,NE,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,11,11,,,,0.37,0.66
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 5,NE,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,11,11,7,,,0.37,0.66
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,NE,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,11,11,,,1.00,0.37,0.66
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 0,NE,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,11,5,5,,,0.37,0.70
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 1,NE,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,11,5,,,,0.37,0.70
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,NE,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,11,5,,,1.50,0.37,0.70
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,NE,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,11,5,,,1.00,0.37,0.70
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,NE,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,11,11,,,1,0.37,0.66
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 0,NE,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,11,5,5,,,0.37,0.7
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 1,NE,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,11,5,,,,0.37,0.7
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,NE,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,11,5,,,1.5,0.37,0.7
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,NE,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,11,5,,,1,0.37,0.7
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 0,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,11,6,5,,,0.37,0.73
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 1,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,11,6,3,,,0.37,0.73
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 2,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,11,6,,,,0.37,0.73
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,11,6,,,1.00,0.37,0.73
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,11,6,,,1.00,0.37,0.73
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,11,6,,,1,0.37,0.73
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,NE,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,11,6,,,1,0.37,0.73
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 0,NE,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,11,5,4,,,0.37,0.66
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 1,NE,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,11,5,3,,,0.37,0.66
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 2,NE,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,11,5,,,,0.37,0.66
-Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 3,NE,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,11,5,,,1.00,0.37,0.66
+Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 3,NE,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,11,5,,,1,0.37,0.66
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 0,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,11,5,3,,,0.37,0.61
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 1,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,11,5,,,,0.37,0.61
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 2,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,11,5,5,,,0.37,0.61
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 3,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,11,5,,,1.00,0.37,0.61
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 3,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Reglas del sistema de numeración (actividad de aprendizaje),ungraded lti,11,5,,,1,0.37,0.61
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 4,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,11,5,3,,,0.37,0.61
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 5,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,11,5,,,,0.37,0.61
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 6,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,11,5,,,,0.37,0.61
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,11,5,4,1.25,,0.37,0.61
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,11,5,4,1,,0.37,0.61
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 8,NE,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,11,5,,,,0.37,0.61
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 0,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,3,2,2,,,0.47,0.90
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 1,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,3,2,,,,0.47,0.90
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 2,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,3,2,2,,,0.47,0.90
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 3,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,3,2,,,,0.47,0.90
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,3,2,,,1.00,0.47,0.90
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 0,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,3,2,2,,,0.47,0.9
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 1,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,3,2,,,,0.47,0.9
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 2,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,3,2,2,,,0.47,0.9
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 3,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,3,2,,,,0.47,0.9
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,3,2,,,1,0.47,0.9
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 0,NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,3,3,2,,,0.47,0.75
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 1,NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,3,3,,,,0.47,0.75
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 2,NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,3,3,2,,,0.47,0.75
-Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,3,3,,,1.00,0.47,0.75
+Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,NE,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,3,3,,,1,0.47,0.75
 Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 0,NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,3,2,2,,,0.47,0.66
 Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 1,NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,3,2,,,,0.47,0.66
-Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,3,2,,,1.00,0.47,0.66
+Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,NE,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,3,2,,,1,0.47,0.66
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 0,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,3,2,2,,,0.47,0.75
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 1,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,3,2,,,,0.47,0.75
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,3,2,,,1.00,0.47,0.75
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,3,2,,,1.00,0.47,0.75
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,3,2,,,1,0.47,0.75
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,NE,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,3,2,,,1,0.47,0.75
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 0,NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,3,3,2,,,0.47,0.75
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 1,NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,3,3,,,,0.47,0.75
 Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 2,NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,3,3,2,,,0.47,0.75
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,3,3,,,1.00,0.47,0.75
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,NE,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,3,3,,,1,0.47,0.75
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 0,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,3,3,2,,,0.47,0.56
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 1,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,3,3,,,,0.47,0.56
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,3,3,,,1.00,0.47,0.56
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,3,3,,,1,0.47,0.56
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 3,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,3,3,1,,,0.47,0.56
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 4,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,3,3,,,,0.47,0.56
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 5,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,3,3,,,,0.47,0.56
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,3,3,2,1.00,,0.47,0.56
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,3,3,2,1,,0.47,0.56
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 7,NE,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,3,3,,,,0.47,0.56
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 0,NE,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,2,2,2,,,0.53,0.78
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 1,NE,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,2,2,,,,0.53,0.78
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 2,NE,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,2,2,1,,,0.53,0.78
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 3,NE,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.53,0.78
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 3,NE,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,2,2,,,1,0.53,0.78
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 4,NE,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,2,2,2,,,0.53,0.78
 Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 5,NE,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,2,2,,,,0.53,0.78
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 6,NE,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.53,0.78
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 6,NE,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,2,2,,,1,0.53,0.78
 Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 0,NE,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,2,2,2,,,0.53,0.75
 Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 1,NE,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,2,2,,,,0.53,0.75
 Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 2,NE,Números racionales,Significados de los números racionales,Números racionales,quiz,2,2,1,,,0.53,0.75
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,NE,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.53,0.75
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,NE,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,2,2,,,1,0.53,0.75
 Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 0,NE,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,2,2,2,,,0.53,0.62
 Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 1,NE,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,2,2,,,,0.53,0.62
 Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 2,NE,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,2,2,1,,,0.53,0.62
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,NE,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.53,0.62
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,NE,Números racionales,Decimales,Números decimales,lecture,2,1,1,,,0.53,0.50
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,NE,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,2,1,,,,0.53,0.50
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,NE,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,2,1,,,,0.53,0.50
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,NE,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,2,1,,,,0.53,0.50
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,NE,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,2,2,,,1,0.53,0.62
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,NE,Números racionales,Decimales,Números decimales,lecture,2,1,1,,,0.53,0.5
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,NE,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,2,1,,,,0.53,0.5
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,NE,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,2,1,,,,0.53,0.5
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,NE,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,2,1,,,,0.53,0.5
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 0,NE,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,2,2,1,,,0.53,0.33
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 1,NE,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,2,2,,,,0.53,0.33
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 2,NE,Números racionales,Razón y proporción,Cantidad desconocida,quiz,2,2,,,,0.53,0.33
@@ -372,26 +372,26 @@ Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 3,NE,Números racionales,Razón y proporción,
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 4,NE,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,2,2,,,,0.53,0.33
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,NE,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,2,2,,,,0.53,0.33
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 6,NE,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,2,2,,,,0.53,0.33
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,NE,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,2,2,1,1.00,,0.53,0.33
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,NE,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,2,2,1,1,,0.53,0.33
 Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 8,NE,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,2,2,,,,0.53,0.33
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 0,NE,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,2,2,2,,,0.45,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 1,NE,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,2,2,,,,0.45,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 2,NE,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,2,2,1,,,0.45,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 3,NE,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,2,2,2,,,0.45,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 4,NE,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,2,2,,,,0.45,0.83
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,NE,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.45,0.83
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,NE,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,2,2,,,1,0.45,0.83
 Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 0,NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,2,2,2,,,0.45,0.75
 Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 1,NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,2,2,,,,0.45,0.75
 Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 2,NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,2,2,1,,,0.45,0.75
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.45,0.75
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 0,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,2,2,2,,,0.45,0.70
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 1,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,2,2,,,,0.45,0.70
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 2,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,2,2,1,,,0.45,0.70
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.45,0.70
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.45,0.70
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,NE,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,2,2,,,1,0.45,0.75
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 0,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,2,2,2,,,0.45,0.7
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 1,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,2,2,,,,0.45,0.7
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 2,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,2,2,1,,,0.45,0.7
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,2,2,,,1,0.45,0.7
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,NE,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,2,2,,,1,0.45,0.7
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 0,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,2,2,2,,,0.45,0.37
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 1,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,2,2,,,,0.45,0.37
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,2,2,,,1.00,0.45,0.37
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,2,2,,,1,0.45,0.37
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 3,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,2,2,1,,,0.45,0.37
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 4,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,2,2,2,,,0.45,0.37
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 5,NE,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,2,2,,,,0.45,0.37
@@ -405,17 +405,17 @@ Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 3,NE,Magnitudes y medidas. Medidas directas,¿
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 4,NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,1,1,,,,0.28,0.57
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.57
 Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,NE,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.57
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,1,1,1,,,0.28,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,1,1,,,,0.28,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.50
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.50
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,1,1,1,,,0.28,0.5
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,1,1,,,,0.28,0.5
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.5
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,NE,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.5
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 0,NE,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,1,1,1,,,0.28,0.66
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 1,NE,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,1,1,,,,0.28,0.66
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 2,NE,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.66
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,NE,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,1,1,1,,,0.28,0.50
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,NE,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,1,1,,,,0.28,0.50
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,NE,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.50
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,NE,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.50
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,NE,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,1,1,1,,,0.28,0.5
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,NE,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,1,1,,,,0.28,0.5
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,NE,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.5
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,NE,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.5
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 0,NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,1,1,1,,,0.28,0.31
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 1,NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,1,1,,,,0.28,0.31
 Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,NE,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,1,1,,,,0.28,0.31
@@ -438,20 +438,20 @@ Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 2,T,Números naturales y sistemas de numeraci�
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 3,T,Números naturales y sistemas de numeración,Origen de los números naturales,Historia de los números naturales,lecture,12,12,11,,,0.77,0.84
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 4,T,Números naturales y sistemas de numeración,Origen de los números naturales,Mapa conceptual de la historia de los números naturales,supplement,12,12,,,,0.77,0.84
 Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 5,T,Números naturales y sistemas de numeración,Origen de los números naturales,Relación de correspondencia,quiz,12,12,11,,,0.77,0.84
-Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,T,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,12,12,,,1.00,0.77,0.84
+Mod 1,Mod 1-Les 0,Mod 1-Les 0-Ite 6,T,Números naturales y sistemas de numeración,Origen de los números naturales,Los enchufes (actividad de aprendizaje),ungraded lti,12,12,,,1,0.77,0.84
 Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 0,T,Números naturales y sistemas de numeración,Usos de los números naturales,¿En qué se  diferencian cuantificar y contar?,lecture,12,10,10,,,0.77,0.77
 Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 1,T,Números naturales y sistemas de numeración,Usos de los números naturales,Mapa conceptual de los usos de los números naturales,supplement,12,10,,,,0.77,0.77
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,T,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,12,10,,,1.00,0.77,0.77
-Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,T,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,12,10,,,1.00,0.77,0.77
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 2,T,Números naturales y sistemas de numeración,Usos de los números naturales,Compra - venta (actividad de aprendizaje),ungraded lti,12,10,,,1,0.77,0.77
+Mod 1,Mod 1-Les 1,Mod 1-Les 1-Ite 3,T,Números naturales y sistemas de numeración,Usos de los números naturales,Número de identificación (actividad de aprendizaje),ungraded lti,12,10,,,1,0.77,0.77
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 0,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Sabes cuántos pasos sigues para contar?,quiz,12,10,10,,,0.77,0.86
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 1,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,¿Qué  hacemos  cuando  contamos?,lecture,12,10,9,,,0.77,0.86
 Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 2,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Mapa conceptual de los principios del conteo,supplement,12,10,,,,0.77,0.86
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,12,10,,,1.00,0.77,0.86
-Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,12,10,,,1.00,0.77,0.86
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 3,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Secuencias de conteo (actividad de aprendizaje),ungraded lti,12,10,,,1,0.77,0.86
+Mod 1,Mod 1-Les 2,Mod 1-Les 2-Ite 4,T,Números naturales y sistemas de numeración,Cuantificación: principios de conteo,Error de conteo de un niño (actividad de aprendizaje),ungraded lti,12,10,,,1,0.77,0.86
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 0,T,Números naturales y sistemas de numeración,Representación de los números naturales,¿Qué es y cómo se representa un número?,quiz,12,11,11,,,0.77,0.79
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 1,T,Números naturales y sistemas de numeración,Representación de los números naturales,Pensemos  en  diferentes  formas de  expresar el  número  tres,lecture,12,11,10,,,0.77,0.79
 Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 2,T,Números naturales y sistemas de numeración,Representación de los números naturales,Mapa conceptual de las representaciones de los números naturales,supplement,12,11,,,,0.77,0.79
-Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 3,T,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,12,11,,,1.00,0.77,0.79
+Mod 1,Mod 1-Les 3,Mod 1-Les 3-Ite 3,T,Números naturales y sistemas de numeración,Representación de los números naturales,Formas de representar un número (actividad de aprendizaje),ungraded lti,12,11,,,1,0.77,0.79
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 0,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,¿Qué es el  sistema  decimal de  numeración  ?,lecture,12,12,10,,,0.77,0.79
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 1,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del sistema decimal de numeración,supplement,12,12,,,,0.77,0.79
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 2,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Sistemas de numeración,quiz,12,12,11,,,0.77,0.79
@@ -459,115 +459,115 @@ Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 3,T,Números naturales y sistemas de numeraci�
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 4,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Resumen de las cuestiones claves de los números naturales y los sistemas de numeración,lecture,12,12,9,,,0.77,0.79
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 5,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del resumen de las cuestiones claves de los números naturales y los sistemas de numeración,supplement,12,12,,,,0.77,0.79
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 6,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Mapa conceptual del módulo,supplement,12,12,,,,0.77,0.79
-Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,12,12,12,1.66,,0.77,0.79
+Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 7,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Cuestionario final módulo números naturales y sistemas de numeración,exam,12,12,12,2,,0.77,0.79
 Mod 1,Mod 1-Les 4,Mod 1-Les 4-Ite 8,T,Números naturales y sistemas de numeración,Sistema decimal de numeración,Bibliografía números naturales y sistemas de numeración,supplement,12,12,,,,0.77,0.79
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 0,T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Introducción a la aritmética de los números naturales,lecture,12,9,9,,,0.62,0.91
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 1,T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de la introducción a la aritmética de los números naturales,supplement,12,9,,,,0.62,0.91
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 2,T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Concepciones de la adición,lecture,12,9,9,,,0.62,0.91
 Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 3,T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Mapa conceptual de las concepciones de la adición,supplement,12,9,,,,0.62,0.91
-Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.91
+Mod 2,Mod 2-Les 0,Mod 2-Les 0-Ite 4,T,Aritmética de los números naturales,Significados y representaciones de las operaciones aditivas,Situación de ahorro (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.91
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 0,T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,¿Cumplen las mismas propiedades la adición y la sustracción?,lecture,12,9,8,,,0.62,0.83
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 1,T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Mapa conceptual de las propiedades de las operaciones aditivas,supplement,12,9,,,,0.62,0.83
 Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 2,T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Operaciones aditivas,quiz,12,9,9,,,0.62,0.83
-Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.83
+Mod 2,Mod 2-Les 1,Mod 2-Les 1-Ite 3,T,Aritmética de los números naturales,Propiedades de las operaciones aditivas,Verificación de problemas (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.83
 Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 0,T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,¿Cómo hacer una adición con el ábaco vertical?,lecture,12,8,8,,,0.62,0.87
 Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 1,T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Mapa conceptual de las formas de sumar y restar,supplement,12,8,,,,0.62,0.87
-Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.87
+Mod 2,Mod 2-Les 2,Mod 2-Les 2-Ite 2,T,Aritmética de los números naturales,Formas de realizar la adición y la sustracción,Procedimientos de cálculo (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.87
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 0,T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Significados de la división y la multiplicación,lecture,12,8,8,,,0.62,0.81
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 1,T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Mapa conceptual de los significados de la división y la multiplicación,supplement,12,8,,,,0.62,0.81
 Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 2,T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Amortización de crédito bancario (actividad de aprendizaje),ungraded lti,12,8,1,,1.16,0.62,0.81
-Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.81
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 0,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,12,9,8,,,0.62,0.80
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 1,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,12,9,,,,0.62,0.80
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 2,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,12,9,9,,,0.62,0.80
-Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.80
+Mod 2,Mod 2-Les 3,Mod 2-Les 3-Ite 3,T,Aritmética de los números naturales,Significados y representaciones de las operaciones multiplicativas,Publicidad falsa de helados (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.81
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 0,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,¿Cumplen la propiedad conmutativa la multiplicación y la división?,lecture,12,9,8,,,0.62,0.8
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 1,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Mapa conceptual de las propiedades de las operaciones multiplicativas,supplement,12,9,,,,0.62,0.8
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 2,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Operaciones multiplicativas,quiz,12,9,9,,,0.62,0.8
+Mod 2,Mod 2-Les 4,Mod 2-Les 4-Ite 3,T,Aritmética de los números naturales,Propiedades de las operaciones multiplicativas,Los caramelos de Lucy (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.8
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 0,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Significado de la multiplicación: ábaco vertical,lecture,12,12,8,,,0.62,0.66
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 1,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual de las formas de multiplicar y dividir,supplement,12,12,,,,0.62,0.66
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,12,12,,,1.00,0.62,0.66
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 2,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Multiplicación/división en el ábaco (actividad de aprendizaje),ungraded lti,12,12,,,1,0.62,0.66
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 3,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Resumen de las cuestiones claves de la aritmética de los números naturales,lecture,12,12,8,,,0.62,0.66
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 4,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del resumen de las cuestiones claves de la aritmética de los números naturales,supplement,12,12,,,,0.62,0.66
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 5,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Mapa conceptual del módulo,supplement,12,12,,,,0.62,0.66
-Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,12,12,12,1.75,,0.62,0.66
+Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 6,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Cuestionario final módulo aritmética de los números naturales,exam,12,12,12,2,,0.62,0.66
 Mod 2,Mod 2-Les 5,Mod 2-Les 5-Ite 7,T,Aritmética de los números naturales,Formas de realizar la multiplicación y la división,Bibliografía aritmética de los números naturales,supplement,12,12,,,,0.62,0.66
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 0,T,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,12,9,9,,,0.60,0.80
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 1,T,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,12,9,,,,0.60,0.80
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 2,T,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,12,9,9,,,0.60,0.80
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 3,T,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.60,0.80
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 4,T,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,12,9,8,,,0.60,0.80
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 5,T,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,12,9,,,,0.60,0.80
-Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 6,T,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.60,0.80
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 0,T,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,12,9,8,,,0.60,0.77
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 1,T,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,12,9,,,,0.60,0.77
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 2,T,Números racionales,Significados de los números racionales,Números racionales,quiz,12,9,9,,,0.60,0.77
-Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,T,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,12,9,,,1.40,0.60,0.77
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 0,T,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,12,9,8,,,0.60,0.77
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 1,T,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,12,9,,,,0.60,0.77
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 2,T,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,12,9,9,,,0.60,0.77
-Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,T,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,12,9,,,1.25,0.60,0.77
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,T,Números racionales,Decimales,Números decimales,lecture,12,8,8,,,0.60,0.75
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,T,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,12,8,,,,0.60,0.75
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,T,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,12,8,1,,1.00,0.60,0.75
-Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,T,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.60,0.75
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 0,T,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,12,12,8,,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 1,T,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,12,12,,,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 2,T,Números racionales,Razón y proporción,Cantidad desconocida,quiz,12,12,9,,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 3,T,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,12,12,7,,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 4,T,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,12,12,,,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,T,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,12,12,,,1.00,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 6,T,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,12,12,,,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,T,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,12,12,12,1.66,,0.60,0.65
-Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 8,T,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,12,12,,,,0.60,0.65
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 0,T,Números racionales,Elementos y representaciones de números racionales,Introducción a números racionales,lecture,12,9,9,,,0.6,0.8
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 1,T,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de la introducción a números racionales,supplement,12,9,,,,0.6,0.8
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 2,T,Números racionales,Elementos y representaciones de números racionales,Representaciones de números racionales,quiz,12,9,9,,,0.6,0.8
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 3,T,Números racionales,Elementos y representaciones de números racionales,Representación de los racionales (actividad de aprendizaje),ungraded lti,12,9,,,1,0.6,0.8
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 4,T,Números racionales,Elementos y representaciones de números racionales,Elementos y representaciones de los números racionales,lecture,12,9,8,,,0.6,0.8
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 5,T,Números racionales,Elementos y representaciones de números racionales,Mapa conceptual de las representaciones de los números racionales,supplement,12,9,,,,0.6,0.8
+Mod 3,Mod 3-Les 0,Mod 3-Les 0-Ite 6,T,Números racionales,Elementos y representaciones de números racionales,Error en un número racional (actividad de aprendizaje),ungraded lti,12,9,,,1,0.6,0.8
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 0,T,Números racionales,Significados de los números racionales,Significados de los números racionales,lecture,12,9,8,,,0.6,0.77
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 1,T,Números racionales,Significados de los números racionales,Mapa conceptual de los significados de los números racionales,supplement,12,9,,,,0.6,0.77
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 2,T,Números racionales,Significados de los números racionales,Números racionales,quiz,12,9,9,,,0.6,0.77
+Mod 3,Mod 3-Les 1,Mod 3-Les 1-Ite 3,T,Números racionales,Significados de los números racionales,Identificar el significado de la fracción (actividad de aprendizaje),ungraded lti,12,9,,,1.4,0.6,0.77
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 0,T,Números racionales,Operaciones con fracciones,Operaciones con fracciones,lecture,12,9,8,,,0.6,0.77
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 1,T,Números racionales,Operaciones con fracciones,Mapa conceptual de operaciones con fracciones,supplement,12,9,,,,0.6,0.77
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 2,T,Números racionales,Operaciones con fracciones,Operaciones con fracciones,quiz,12,9,9,,,0.6,0.77
+Mod 3,Mod 3-Les 2,Mod 3-Les 2-Ite 3,T,Números racionales,Operaciones con fracciones,Contenido de una porción (actividad de aprendizaje),ungraded lti,12,9,,,1.25,0.6,0.77
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 0,T,Números racionales,Decimales,Números decimales,lecture,12,8,8,,,0.6,0.75
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 1,T,Números racionales,Decimales,Mapa conceptual de la multiplicación de decimales y fracciones,supplement,12,8,,,,0.6,0.75
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 2,T,Números racionales,Decimales,Una pequeña parte del metro (actividad de aprendizaje),ungraded lti,12,8,1,,1,0.6,0.75
+Mod 3,Mod 3-Les 3,Mod 3-Les 3-Ite 3,T,Números racionales,Decimales,Sistema métrico decimal (actividad de aprendizaje),ungraded lti,12,8,,,1,0.6,0.75
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 0,T,Números racionales,Razón y proporción,Proporcionalidad entre cantidades,lecture,12,12,8,,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 1,T,Números racionales,Razón y proporción,Mapa conceptual de razón y proporción,supplement,12,12,,,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 2,T,Números racionales,Razón y proporción,Cantidad desconocida,quiz,12,12,9,,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 3,T,Números racionales,Razón y proporción,Resumen de las cuestiones claves de los números racionales,lecture,12,12,7,,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 4,T,Números racionales,Razón y proporción,Mapa conceptual del resumen de las cuestiones claves de los números racionales,supplement,12,12,,,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 5,T,Números racionales,Razón y proporción,Perímetro - lado del cuadrado (actividad de aprendizaje),ungraded lti,12,12,,,1,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 6,T,Números racionales,Razón y proporción,Mapa conceptual del módulo,supplement,12,12,,,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 7,T,Números racionales,Razón y proporción,Cuestionario final módulo números racionales,exam,12,12,12,2,,0.6,0.65
+Mod 3,Mod 3-Les 4,Mod 3-Les 4-Ite 8,T,Números racionales,Razón y proporción,Bibliografía: Números racionales,supplement,12,12,,,,0.6,0.65
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 0,T,Geometría elemental del plano,Nociones geométricas básicas,Introducción a geometría elemental del plano,lecture,12,9,8,,,0.62,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 1,T,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de la introducción a geometría elemental del plano,supplement,12,9,,,,0.62,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 2,T,Geometría elemental del plano,Nociones geométricas básicas,Geometría,quiz,12,9,9,,,0.62,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 3,T,Geometría elemental del plano,Nociones geométricas básicas,Nociones básicas,lecture,12,9,8,,,0.62,0.83
 Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 4,T,Geometría elemental del plano,Nociones geométricas básicas,Mapa conceptual de las nociones básicas,supplement,12,9,,,,0.62,0.83
-Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,T,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.83
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 0,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,12,9,9,,,0.62,0.80
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 1,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,12,9,,,,0.62,0.80
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 2,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,12,9,9,,,0.62,0.80
-Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.80
+Mod 4,Mod 4-Les 0,Mod 4-Les 0-Ite 5,T,Geometría elemental del plano,Nociones geométricas básicas,Segmentos (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.83
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 0,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Características de los polígonos,lecture,12,9,9,,,0.62,0.8
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 1,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Mapa conceptual de las figuras planas,supplement,12,9,,,,0.62,0.8
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 2,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Figuras geométricas,quiz,12,9,9,,,0.62,0.8
+Mod 4,Mod 4-Les 1,Mod 4-Les 1-Ite 3,T,Geometría elemental del plano,Polígonos y otras figuras geométricas planas,Poligonal y polígono (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.8
 Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 0,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Características de los triángulos,lecture,12,9,8,,,0.62,0.75
 Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 1,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Mapa conceptual de los triángulos,supplement,12,9,,,,0.62,0.75
 Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 2,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Triángulos,quiz,12,9,9,,,0.62,0.75
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.75
-Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.75
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 3,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Clasificación de triángulos (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.75
+Mod 4,Mod 4-Les 2,Mod 4-Les 2-Ite 4,T,Geometría elemental del plano,Los triángulos (tipos y propiedades),Medidas de ángulos (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.75
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 0,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Tipos de cuadriláteros,lecture,12,12,8,,,0.62,0.66
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 1,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual de los cuadriláteros,supplement,12,12,,,,0.62,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,12,12,,,1.00,0.62,0.66
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 2,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de cuadriláteros (actividad de aprendizaje),ungraded lti,12,12,,,1,0.62,0.66
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 3,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Clasificación de figuras,quiz,12,12,9,,,0.62,0.66
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 4,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Resumen de las cuestiones claves de la geometría elemental del plano,lecture,12,12,8,,,0.62,0.66
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 5,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del resumen de las cuestiones claves de la geometría elemental del plano,supplement,12,12,,,,0.62,0.66
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 6,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Mapa conceptual del módulo,supplement,12,12,,,,0.62,0.66
-Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 7,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,12,12,12,1.66,,0.62,0.66
+Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 7,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Cuestionario final módulo geometría elemental del plano,exam,12,12,12,2,,0.62,0.66
 Mod 4,Mod 4-Les 3,Mod 4-Les 3-Ite 8,T,Geometría elemental del plano,Los cuadriláteros (tipos y propiedades),Bibliografía geometría elemental del plano,supplement,12,12,,,,0.62,0.66
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 0,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,12,9,8,,,0.62,0.80
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 1,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,12,9,,,,0.62,0.80
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 2,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,12,9,9,,,0.62,0.80
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 3,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,12,9,8,,,0.62,0.80
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 4,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,12,9,,,,0.62,0.80
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.80
-Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,12,9,,,1.00,0.62,0.80
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 0,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Introducción a los tipos de magnitudes,lecture,12,9,8,,,0.62,0.8
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 1,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de la introducción a los tipos de magnitudes,supplement,12,9,,,,0.62,0.8
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 2,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Magnitud,quiz,12,9,9,,,0.62,0.8
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 3,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,¿Qué es una magnitud?,lecture,12,9,8,,,0.62,0.8
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 4,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,Mapa conceptual de los tipos de magnitudes,supplement,12,9,,,,0.62,0.8
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 5,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El experimento de Arquímedes (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.8
+Mod 5,Mod 5-Les 0,Mod 5-Les 0-Ite 6,T,Magnitudes y medidas. Medidas directas,¿Qué es una magnitud? Tipos de magnitudes,El lingote y la corona (actividad de aprendizaje),ungraded lti,12,9,,,1,0.62,0.8
 Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 0,T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Medida de magnitudes y unidades de medida,lecture,12,8,8,,,0.62,0.75
 Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 1,T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Mapa conceptual de los conceptos y procedimientos para la medida de magnitudes,supplement,12,8,,,,0.62,0.75
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.75
-Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.75
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 2,T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,Rendimiento de combustible (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.75
+Mod 5,Mod 5-Les 1,Mod 5-Les 1-Ite 3,T,Magnitudes y medidas. Medidas directas,Medida de magnitudes y unidades de medida: conceptos y procedimientos,El arca de Noé (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.75
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 0,T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,¿Cómo mides la longitud de un objeto?,lecture,12,8,8,,,0.62,0.81
 Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 1,T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Mapa conceptual de la medida directa,supplement,12,8,,,,0.62,0.81
-Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 2,T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.81
+Mod 5,Mod 5-Les 2,Mod 5-Les 2-Ite 2,T,Magnitudes y medidas. Medidas directas,Medida directa de magnitudes,Cálculo de áreas (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.81
 Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 0,T,Magnitudes y medidas. Medidas directas,Estimación,Procesos de estimación,lecture,12,8,8,,,0.62,0.72
 Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 1,T,Magnitudes y medidas. Medidas directas,Estimación,Mapa conceptual de estimación,supplement,12,8,,,,0.62,0.72
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,T,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.72
-Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,T,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,12,8,,,1.00,0.62,0.72
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 0,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,12,12,8,,,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 1,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,12,12,,,,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,12,12,,,1.16,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 3,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,12,12,8,,,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 4,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,12,12,,,,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 5,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,12,12,,,,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 6,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,12,12,12,1.58,,0.62,0.70
-Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 7,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,12,12,,,,0.62,0.70
-Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 0,T,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,8,8,,,1.00,0.81,0.81
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 2,T,Magnitudes y medidas. Medidas directas,Estimación,Logotipo (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.72
+Mod 5,Mod 5-Les 3,Mod 5-Les 3-Ite 3,T,Magnitudes y medidas. Medidas directas,Estimación,Estatura (actividad de aprendizaje),ungraded lti,12,8,,,1,0.62,0.72
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 0,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Sistema métrico decimal y sistema internacional de medida,lecture,12,12,8,,,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 1,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del sistema internacional de medidas,supplement,12,12,,,,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 2,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Hectáreas (actividad de aprendizaje),ungraded lti,12,12,,,1.16,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 3,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Resumen de las cuestiones claves de magnitudes y medidas,lecture,12,12,8,,,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 4,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del resumen de las cuestiones claves de magnitudes y medidas,supplement,12,12,,,,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 5,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Mapa conceptual del módulo,supplement,12,12,,,,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 6,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Cuestionario final módulo magnitudes y medidas,exam,12,12,12,2,,0.62,0.7
+Mod 5,Mod 5-Les 4,Mod 5-Les 4-Ite 7,T,Magnitudes y medidas. Medidas directas,Evolución histórica y social de las unidades de medida,Bibliografía magnitudes y medidas,supplement,12,12,,,,0.62,0.7
+Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 0,T,Aplicación de los conceptos aprendidos,Cierre del curso,Construcción de un mueble (actividad de aprendizaje),ungraded lti,8,8,,,1,0.81,0.81
 Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 1,T,Aplicación de los conceptos aprendidos,Cierre del curso,Mapa conceptual de los conceptos aprendidos en el curso,supplement,8,8,,,,0.81,0.81
 Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 2,T,Aplicación de los conceptos aprendidos,Cierre del curso,Aplicación de los conceptos aprendidos,quiz,8,8,8,,,0.81,0.81
 Mod 6,Mod 6-Les 0,Mod 6-Les 0-Ite 3,T,Aplicación de los conceptos aprendidos,Cierre del curso,Video de cierre del curso,lecture,8,8,7,,,0.81,0.81

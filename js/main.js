@@ -1,21 +1,25 @@
 /* global d3, crossfilter, timeSeriesChart, barChart */
 
 var barChartPartModulo=barChart()
-  .width(800)
+  .width(600)
   .x(function (d) { return d.key;})
   .y(function (d) { return d.value;});
 
 var barChartPartLeccion=barChart()
-.width(800)
+.width(600)
 .x(function (d) { return d.key;})
 .y(function (d) { return d.value;})
 
 
 var barChartPartActividad=barChart()
-.width(800)
+.width(600)
 .x(function (d) { return d.key;})
 .y(function (d) { return d.value;});
 
+var barChartIntentos=barChart()
+  .width(600)
+  .x(function (d) { return d.key;})
+  .y(function (d) { return d.value;});
 
 
 
@@ -29,7 +33,7 @@ d3.csv("data/dataset.csv").then(function(data){
   d.part_leccion= +d["part_leccion"]
   d.part_item = +d["part_item"]
   d.prom_intentos= +d['prom_intentos']
-  d.prom_act_aprendizaje= +d['prom_intentos']
+  d.prom_act_aprendizaje= +d['prom_act_aprendizaje']
   d.completitud_modulo  = +["completitud_modulo"]
   d.completitud_lec = +d["completitud_lec"]
     
@@ -54,6 +58,7 @@ d3.select("#d3-dropdown")
 
 var csData = crossfilter(data_filter);
 
+
 csData.dimPartModulo = csData.dimension(function (d) { return d.modulo; });
 csData.partModulo = csData.dimPartModulo.group()
 
@@ -65,6 +70,25 @@ var reducer = reductio()
 reducer(csData.partModulo);
 
 csData.partModulo.top(Infinity);
+
+
+csData.dimIntentos = csData.dimension(function (d) { return d.modulo; });
+csData.intentos = csData.dimIntentos.group()
+
+
+var reducer3 = reductio()
+    .exception(function(d) { return d.modulo; })
+    .exceptionSum(function(d) {console.log("aaaaa        "+JSON.stringify(d)); return d.prom_intentos; });
+  
+
+reducer3(csData.intentos);
+
+
+csData.intentos.top(Infinity);
+
+
+console.log(csData.intentos.all())
+
 
 csData.dimPartLeccion = csData.dimension(function (d) { return d["course_branch_lesson_name"]; });
 csData.partLeccion = csData.dimPartLeccion.group();
@@ -89,9 +113,7 @@ barChartPartModulo.onclick(function (d) {
       csData.partLeccion.top(Infinity);
 
 
-
       update1();
-      update2();
     })
 
 barChartPartLeccion.onclick(function (d) {
@@ -121,6 +143,17 @@ barChartPartLeccion.onclick(function (d) {
           return {key:d.key,value:d.value.exceptionSum}
         }))
         .call(barChartPartModulo);
+        //.attr("transform", "translate(-8,-1) rotate(-45)"); 
+
+        console.log(csData.intentos.all().map(function(d){ 
+          return {key:d.key,value:d.value.exceptionSum}
+        }))
+
+        d3.select("#intentos")
+        .datum(csData.intentos.all().map(function(d){ 
+          return {key:d.key,value:d.value.exceptionSum}
+        }))
+        .call(barChartIntentos);
         //.attr("transform", "translate(-8,-1) rotate(-45)"); 
     } 
     function update1() {

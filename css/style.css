@@ -1,10 +1,10 @@
-  .bar {
-	  fill: steelblue;
-	}
+.bar {
+    fill: steelblue;
+  }
 
-	.bar:hover {
-	  fill: green;
-	}
+  .bar:hover {
+    fill: green;
+  }
 
 
 
@@ -24,7 +24,7 @@
   font-size: 10px;
   width: 100%;
   line-height: 1;
-  color: rgba(0, 150, 5, 12);
+  color: rgba(63,191, 191, 1);
   content: "\25BC";
   position: absolute;
   text-align: center;
@@ -48,4 +48,54 @@
 }
 .x.axis path {
   display: none;
+}
+
+
+/*style for de information box */
+[data-tooltip]{ 
+position:relative; 
+border-bottom: 1px dotted #09C;
+cursor:pointer;
+}
+[data-tooltip]::before {
+content : attr(data-tooltip);
+background-color:rgba(0,0,0,.75);
+color:white;
+-webkit-font-smoothing: antialiased;
+width:250px;
+padding:10px;
+height:auto;
+border-radius:3px;
+display:none;
+position:absolute;
+bottom:25px;
+left:calc(100% - 75%);
+pointer-events: none;
+z-index:99;
+ }
+[data-tooltip]::after{
+content:"";
+height:1px;
+width:1px;
+border:10px solid transparent;
+border-top-color:rgba(0,0,0,.75);
+position:absolute;
+bottom:4px;
+left:50%;
+display: none;
+}
+[data-tooltip]:hover::before,
+[data-tooltip]:hover::after
+{ display:block;} 
+
+
+.boton {
+border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #2e518b; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
 }
