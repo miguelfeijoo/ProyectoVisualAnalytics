@@ -60,6 +60,15 @@ function barChart() {
           .attr("text-anchor", "end")
           .text("Frequency");
 
+      var tip = d3.tip()
+      .attr('class', 'd3-tip')
+      .style("visibility","visible")
+      .offset([-20, 0])
+      .html(function(d) {
+      return "<span style='color:white'>'" + d.key + "' : " +    "</span>" + " <span style='color:darkblue'>" + d.value + " participaciones registradas" +    "</span>";
+      })
+      svgT.call(tip);
+
       var bars = g.selectAll(".bar")
         .data(function (d) { return d; });
 
@@ -70,8 +79,8 @@ function barChart() {
           .attr("y", Y)
           .attr("width", xScale.bandwidth())
           .attr("height", function(d) { return innerHeight - Y(d); })
-          .on("mouseover", onMouseOver)
-          .on("mouseout", onMouseOut)
+          .on("mouseover", tip.show)
+          .on("mouseout", tip.hide)
           .on("click", onclick)
           .on("dblclick", ondblclick);
 
