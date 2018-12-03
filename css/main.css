@@ -34,7 +34,13 @@
 body {
 
 	background: #D3D3D3;
+  margin: 20px;
 
+}
+
+.verticalLine {
+  border-right:  dashed #EEE8E8;
+  height: 500px;
 }
 
 select {
