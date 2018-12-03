@@ -50,13 +50,20 @@ d3.select("#d3-dropdown")
 
     var data_filter = data.filter(function (d) {
         return d.type_est === newValue;         
-    });
+    })
 
     console.log(data_filter)
 
+    var data_filter_2 = data.filter(function (d) {
+        return d.type_est === newValue && d.prom_intentos!=0;         
+    })
+
+    console.log(data_filter_2)
 
 
 var csData = crossfilter(data_filter);
+var csData_2 = crossfilter(data_filter_2);
+
 
 
 csData.dimPartModulo = csData.dimension(function (d) { return d.modulo; });
@@ -72,22 +79,22 @@ reducer(csData.partModulo);
 csData.partModulo.top(Infinity);
 
 
-csData.dimIntentos = csData.dimension(function (d) { return d.modulo; });
-csData.intentos = csData.dimIntentos.group()
+csData_2.dimIntentos = csData_2.dimension(function (d) { return d.modulo; });
+csData_2.intentos = csData_2.dimIntentos.group()
 
 
-var reducer3 = reductio()
+var reducer = reductio()
     .exception(function(d) { return d.modulo; })
-    .exceptionSum(function(d) {console.log("aaaaa        "+JSON.stringify(d)); return d.prom_intentos; });
+    .exceptionSum(function(d) {return d.prom_intentos; });
   
 
-reducer3(csData.intentos);
+reducer(csData_2.intentos);
 
 
-csData.intentos.top(Infinity);
+csData_2.intentos.top(Infinity);
 
 
-console.log(csData.intentos.all())
+console.log(csData_2.intentos.all())
 
 
 csData.dimPartLeccion = csData.dimension(function (d) { return d["course_branch_lesson_name"]; });
@@ -145,12 +152,12 @@ barChartPartLeccion.onclick(function (d) {
         .call(barChartPartModulo);
         //.attr("transform", "translate(-8,-1) rotate(-45)"); 
 
-        console.log(csData.intentos.all().map(function(d){ 
+        console.log(csData_2.intentos.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
         }))
 
         d3.select("#intentos")
-        .datum(csData.intentos.all().map(function(d){ 
+        .datum(csData_2.intentos.all().map(function(d){ 
           return {key:d.key,value:d.value.exceptionSum}
         }))
         .call(barChartIntentos);

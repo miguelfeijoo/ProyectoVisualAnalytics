@@ -65,7 +65,7 @@ function barChart() {
       .style("visibility","visible")
       .offset([-20, 0])
       .html(function(d) {
-      return "<span style='color:white'>'" + d.key + "' : " +    "</span>" + " <span style='color:darkblue'>" + d.value + " participaciones registradas" +    "</span>";
+      return "<span style='color:white'>'" + d.key + "' " +    "</span><span style='color:black'>   <===>   " + "</span> <span style='color:darkblue'>   Valor registrado: " + d.value + "</span>";
       })
       svgT.call(tip);
 
