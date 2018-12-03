@@ -1,22 +1,29 @@
-Proyecto desarrollado por: MIGUEL ALFONSO FEIJOO GARCÍA
-NOMBRE: "La Asistencia a las Plenarias del Senado parece no importar en nuestros Congresistas "
-FECHA DE ACTUALIZACIÓN:   06/11/2018
+# ProyectoVisualAnalytics
 
-Slides: https://docs.google.com/presentation/d/15oxz0i9NCiPXhFQ3P1BObndRxys5HYOGK0hH93Amb4U/edit?usp=sharing
+**Analysis of the behavior of students in MOOC's content of Mathematics in primary** is a D3.js visualization to get to support some needs that has the team of "Una Empresa Docente" from the Faculty of Education of Universidad de los Andes in Bogotá, Colombia. It provides statistics, through developed visualizations,about the levels at which students complete the course activities, the number of students participating and the number of attempts they make to complete an evaluation. This information allows this team to identify the modules, subjects, and activities that are not completed by the students, the frequency of participation and the difficulty of the evaluations regarding the number of attempts to finalize it successfully, principally.
 
-Practicamente, se espera lograr en el usuario un nivel de criticidad respecto a la simplididad en asistencia por parte de los congresistas de la república.Adicionalmente se pretende lograr la identificación del comportamiento de asistencia por parte de la totalidad de senadores de la república a la plenarias del senado. De esta forma, la tarea global indentificada, de acuerdo al framework de Tamara Munzner es la de Explore - Topology: Explorar la clasificación por parte de comportamiento de los senadores de la república en las plenarias del senado (asistencia). Por otro lado, como tareas secundarias, según el mismo framework, se pretende Browse - Features: (Cantidades de Asistencias y Fallas por parte de los miembros del senado a la plenarias) y Identify - Extremes: Identificar el comportamiento promedio total e individual de asistencia por parte de los congresistas a las plenarias del Senado de la República.
+The last actualization of the current visualization was made on: 03/12/2018
 
 
-Para correrlo, ingresar a la URL:   https://miguelfeijoo.github.io/Senado2018/
+## Try it on the next link
 
-Una vez ingresado al link, se encuentra el árbol planteado como visualización, en la que se puede interactuar haciendo zoom and back, como lo desee el usuario.
+In order to get to interact with the visualizations, enter to the link which is shown:
 
-
-Por otro lado, para el pre-procesamiento de la información, se llevó a cabo utilizando PANDAS con PYTHON. De allí se obtuvo la información respectiva que se utilizó como datasets en las visualizaciones. Se armó allí el JSON planteado para trabajar a visualización, de forma que tuviera la estrctura PADRE e HIJOS.
-
+[AGREGAR LINK  GITHUB PAGES]
 
 
-SCREENSHOT: https://raw.githubusercontent.com/miguelfeijoo/miguelfeijoo.github.io/master/Senado2018/Screenshot_ImagenSenado2018.JPG
+In order to get the information presented in the resulting page, .... [ESCRIBIR CÓMO FUE EL PROCESO CON POSTGRES]
 
-Video:
-https://www.youtube.com/watch?v=j3ksXbNO6cI&feature=youtu.be
+
+## DEMO
+
+Watch the following DEMO to get to interact correctly with the visualization
+
+## SLIDES - EXPLANATION
+
+In order to get a general notion of what the process was and how the context is explained graphically, enter to the following link which presents some slides with this information:  https://goo.gl/ukv3pd 
+
+
+## License
+
+Navio.js is licensed under the MIT license. (http://opensource.org/licenses/MIT)
