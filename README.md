@@ -1,6 +1,6 @@
 # ProyectoVisualAnalytics
 
-**Analysis of the behavior of students in MOOC's content of Mathematics in primary** is a D3.js visualization to get to support some needs that has the team of "Una Empresa Docente" from the Faculty of Education of Universidad de los Andes in Bogotá, Colombia. It provides statistics, through developed visualizations,about the levels at which students complete the course activities, the number of students participating and the number of attempts they make to complete an evaluation. This information allows this team to identify the modules, subjects, and activities that are not completed by the students, the frequency of participation and the difficulty of the evaluations regarding the number of attempts to finalize it successfully, principally.
+**Analysis of the behavior of students in MOOC's content of Mathematics in primary** is a D3.js visualization, on its fifth version [v5], to get to support some needs that has the team of "Una Empresa Docente" from the Faculty of Education of Universidad de los Andes in Bogotá, Colombia. It provides statistics, through developed visualizations,about the levels at which students complete the course activities, the number of students participating and the number of attempts they make to complete an evaluation. This information allows this team to identify the modules, subjects, and activities that are not completed by the students, the frequency of participation and the difficulty of the evaluations regarding the number of attempts to finalize it successfully, principally.
 
 The last actualization of the current visualization was made on: 03/12/2018
 
@@ -26,4 +26,4 @@ In order to get a general notion of what the process was and how the context is 
 
 ## License
 
-Navio.js is licensed under the MIT license. (http://opensource.org/licenses/MIT)
+**Analysis of the behavior of students in MOOC's content of Mathematics in primary** is licensed under the MIT license. (http://opensource.org/licenses/MIT)
