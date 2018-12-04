@@ -168,7 +168,7 @@ svg.call(tip);
 
 var myColor = d3.scaleSequential()
     .interpolator(d3.interpolate("white", "steelblue"))
-    .domain([1,100]);
+    .domain([0,100]);
 
 
 
