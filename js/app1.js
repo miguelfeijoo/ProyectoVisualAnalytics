@@ -4,7 +4,7 @@ var margin = {top: 100, right: 0, bottom: 10, left: 10},
 
 var marginT = {top: 100, right: 0, bottom: 10, left: 10},
   widthT = 900 - marginT.left - marginT.right,
-  heightT = 450 - marginT.top - marginT.bottom;
+  heightT = 320 - marginT.top - marginT.bottom;
 
 
 
@@ -35,6 +35,7 @@ updateGrap("A");
 d3.select("#d3-dropdown2")
   .on('change', function() {
     var newValue = eval(d3.select(this).property('value'));
+    document.getElementById('d3-dropdown').value = newValue;
     updateGrap(newValue);
 
 });
@@ -67,7 +68,6 @@ d3.csv("data/dataset.csv").then(function(data) {
 
 
 var dataM=data.filter(d => d.Tipo_Est==value) 
-console.log("pepe" +JSON.stringify(dataM));
 var resumen = d3.nest()
     .key(function(d){
       return d.Modulo
@@ -148,7 +148,7 @@ svg.call(tip);
       .attr("rx", 4)
       .attr("ry", 4)
       .attr("width", x.bandwidth())
-      .attr("height", y.bandwidth()- 60 )
+      .attr("height", y.bandwidth()- 50 )
       .style("fill", function(d) { return myColor(d.value)} )
       .style("stroke-width", 4)
       .style("stroke", "none")
@@ -382,11 +382,11 @@ svgT.append("text")
 bars.enter()
     .append("rect")
       .attr("x", function(d) { return x(d.Leccion) })
-      .attr("y", function(d) { return y(d.Categoria_1) })
+      .attr("y", function(d) { return y(d.Categoria_1)+20})
       .attr("rx", 4)
       .attr("ry", 4)
       .attr("width", x.bandwidth())
-      .attr("height", y.bandwidth()- 80)
+      .attr("height", y.bandwidth()-70)
       .style("fill", function(d) { return myColor(d.value)} )
       .style("stroke-width", 4)
       .style("stroke", "none")
@@ -401,7 +401,7 @@ bars.exit().remove();
 
 var myColor = d3.scaleSequential()
     .interpolator(d3.interpolate("white", "steelblue"))
-    .domain([1,100]);
+    .domain([0,100]);
 
 
 
