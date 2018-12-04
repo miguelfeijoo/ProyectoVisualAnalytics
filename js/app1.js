@@ -132,7 +132,8 @@ var tip = d3.tip()
   .style("visibility","visible")
   .offset([-20, 0])
   .html(function(d) {
-    return "Módulo: <span style='color:darkblue'>" + d.Modulo + " " +    "</span>" + "<strong>Completitud:</strong> <span style='color:darkblue'>" + d.value + "%" +    "</span>";
+    return "Módulo: <span style='color:darkblue'>" + d.Modulo + " " +    "</span>" + 
+        "<strong>Completitud:</strong> <span style='color:darkblue'>" + Number((d.value).toFixed(2)) + "%" +    "</span>";
   })
 svg.call(tip);
 
