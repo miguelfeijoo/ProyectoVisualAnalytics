@@ -38,6 +38,15 @@ body {
 
 }
 
+.fixedContainer {
+    background-color:#ddd;
+    position: fixed;
+    padding: 2em;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
 .verticalLine {
   border-right:  dashed #EEE8E8;
   height: 500px;
