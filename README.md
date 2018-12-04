@@ -4,20 +4,37 @@
 
 The last actualization of the current visualization was made on: 03/12/2018
 
+![Analysis of the behavior of students in MOOC's content of Mathematics in primary](imgs/shortcut.PNG)
+
 
 ## Try it on the next link
 
 In order to get to interact with the visualizations, enter to the link which is shown:
 
-[AGREGAR LINK  GITHUB PAGES]
+https://goo.gl/uHXgfH
 
+In order to get the information presented in the resulting page the following process was done:
 
-In order to get the information presented in the resulting page, .... [ESCRIBIR CÓMO FUE EL PROCESO CON POSTGRES]
+Coursera provides a copy of the database, for investigation of the course administrators, this copy contains database creation scripts and contains the data that will be populated in the tables, the database must be loaded in an engine of Postgres database on the local server. The ua_v_item_curso view was created in the database engine to identify the relationships between the modules, sessions and items. For the identification of active students, the ua_v_estudiantes_actual view was created, this to facilitate the creation of the respective consultations as an input to the visualization presented
 
+## REPOSITORY
+
+In order to see the source code enter:
+
+https://goo.gl/LTygSi
 
 ## DEMO
 
-Watch the following DEMO to get to interact correctly with the visualization
+Watch the following DEMO to get to interact correctly with the visualization:
+
+https://goo.gl/oLz2v6
+
+## VIDEO
+
+Watch the following VIDEO to get to interact correctly with the visualization with details on context and analysis:
+
+https://goo.gl/2LgCrM
+
 
 ## SLIDES - EXPLANATION
 
