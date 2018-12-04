@@ -4,7 +4,9 @@
 
 The last actualization of the current visualization was made on: 03/12/2018
 
-![Analysis of the behavior of students in MOOC's content of Mathematics in primary](imgs/imgs/shortcut.png)
+## SHORTCUT
+
+https://raw.githubusercontent.com/miguelfeijoo/ProyectoVisualAnalytics/master/shortcut.png
 
 
 ## Try it on the next link
