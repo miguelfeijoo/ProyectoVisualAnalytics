@@ -1,6 +1,6 @@
 # ProyectoVisualAnalytics
 
-**Analysis of the behavior of students in MOOC's content of Mathematics in primary** is a D3.js visualization, on its fifth version [v5], to get to support some needs that has the team of "Una Empresa Docente" from the Faculty of Education of Universidad de los Andes in Bogot·, Colombia. It provides statistics, through developed visualizations,about the levels at which students complete the course activities, the number of students participating and the number of attempts they make to complete an evaluation. This information allows this team to identify the modules, subjects, and activities that are not completed by the students, the frequency of participation and the difficulty of the evaluations regarding the number of attempts to finalize it successfully, principally.
+**Analysis of the behavior of students in MOOC's content of Mathematics in primary** is a D3.js visualization, on its fifth version [v5], to get to support some needs that has the team of "Una Empresa Docente" from the Faculty of Education of Universidad de los Andes in Bogot√°, Colombia. It provides statistics, through developed visualizations,about the levels at which students complete the course activities, the number of students participating and the number of attempts they make to complete an evaluation. This information allows this team to identify the modules, subjects, and activities that are not completed by the students, the frequency of participation and the difficulty of the evaluations regarding the number of attempts to finalize it successfully, principally.
 
 The last actualization of the current visualization was made on: 03/12/2018
 
@@ -36,6 +36,12 @@ https://goo.gl/oLz2v6
 Watch the following VIDEO to get to interact correctly with the visualization with details on context and analysis:
 
 https://goo.gl/2LgCrM
+
+## PAPER
+
+To get to read this document, in order to understand all the process and the details towards this topic, enter to the following link:
+
+https://bit.ly/2KZtStk
 
 
 ## SLIDES - EXPLANATION
